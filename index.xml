@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Aug 2016 12:21:58 +0900</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>guide</title>
+      <link>http://replace-this-with-your-hugo-site.com/guide/</link>
+      <pubDate>Wed, 24 Aug 2016 12:21:58 +0900</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/guide/</guid>
+      <description>&lt;div&gt;
+    &lt;div id=&#34;FAQ&#34; class=&#34;FAQ&#34;&gt;
+        &lt;div class=&#34;FAQ-title&#34;&gt; Foreigner&#39;s guide to owning a car in Japan&lt;/div&gt;
+    &lt;!--        &lt;div id=&#34;PAYMENT&#34; class=&#34;title&#34;&gt;NUMEROUS TAXES AND FEES YOU HAVE TO PAY  WHEN YOU BUY A CAR&lt;/div&gt; --&gt;
+            &lt;div class=&#34;FAQ left detail&#34;&gt; 
+                Under construction...
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
