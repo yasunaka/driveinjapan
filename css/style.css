@@ -599,6 +599,9 @@ li {
 					color: #fff;
 					padding-left: 80%;
 	}
+	.nav-item {
+					display: none;
+	}
 	.nav-toggle {
 					display: block;
 	}
