@@ -74,9 +74,6 @@ li {
 				border-top: 1px solid #a9a9a9;
 				border-bottom: 1px solid #a9a9a9;
 }
-.global-nav .nav-item {
-				display: block;
-}
 .global-nav li:nth-child(1) {
 				margin-left: 10%;
 }
@@ -94,13 +91,25 @@ li {
 				line-height: 40px;
 				text-align: center;
 				color: #666;
-				font-size: 13px;
+				font-size: 11px;
 				letter-spacing: 1px;
-				transition: 0.3s;
 }
 .global-nav a:hover {
 				background-color: #c00000;
 				color: #fff;
+}
+.nav-toggle {
+				position: absolute;
+				display: none;
+				top: 5px;
+				right: 30px;
+				width: 35px;
+				height: 35px;
+				background: url('/images/bg-header.gif') repeat-x;
+				background-color: rgba(0,0,0,0.6);
+}
+.nav-toggle:hover {
+				cursor: pointer;
 }
 .wrapper {
 				max-width: 1200px;
@@ -113,24 +122,17 @@ li {
 				width: 100%;
 				height: 500px;
 				max-width: 1200px;
-//				background: url('/images/top-img1.jpg') no-repeat;
-//				background-size: 100% 100%;
 				color: #fff;
 				opacity: 1;
-//				padding: 350px 0 0 10%;
-//				font-size: 50px;
 }
-/*
-.image:hover {
-				opacity: 0.6;
-				color: #000;
-}*/
+.image.middle {
+				height: 300px;
+}
 .img-sentence {
 				position: absolute;
 				color: #fff;
-//				transition: opacity 2s ease;
 				top: 450px;
-				left: 60%;
+				left: 39%;
 				font-size: 40px;
 				opacity: 1;
 }
@@ -177,24 +179,11 @@ li {
 				font-size: 50px;
 				letter-spacing: 1px;
 				width: 100%;
-//				border-top: 2px solid;
 				text-align: center;
 				margin: 0 auto;
-//				border-bottom: 2px solid;
 				padding-top: 5px;
 				background-color: #fff;
 }
-/*
-.explain .title::before {
-				content: '';
-				height: 36px;
-				position: absolute;
-}
-.explain .title::before {
-				width: 430px;
-				border-top: 2px solid;
-				border-bottom: 2px solid;
-}*/
 .explain .detail {
 				text-align: left;
 				font-size: 20px;
@@ -213,7 +202,6 @@ li {
 				margin-left: 1%;
 				padding-top: 10px;
 				float: left;
-//				background-color: #ffa07a;
 }
 .number {
 				display: block;
@@ -245,6 +233,12 @@ li {
 				margin-top: 10px;
 				height: 60px;
 }
+.font20 {
+				font-size: 20px;
+				text-align: left;
+				margin: 30px 0 30px 10%;
+				padding: auto 0 auto;
+}
 .picture {
 				width: 100px;
 				height: 100px;
@@ -273,6 +267,19 @@ li {
 				height: 150px;
 				color: #666;
 }
+.margin10 {
+				width: 75%;
+				margin: 0 10% 10px 15%;
+				font-size: 15px;
+				color: #666;
+				line-height: 18px;
+}
+.guide-title {
+				width: 80%;
+				font-size: 25px;
+				text-align: center;
+				margin: 30px 10% 10px 10%;
+}
 .clearfix {
 				clear: both;
 }
@@ -295,7 +302,6 @@ li {
 				min-height: 200px;
 				padding-top: 10px;
 				position: relative;
-//				border: 1px solid;
 				padding-bottom: 30px;
 				background-color: #ffc0c0;
 }
@@ -368,8 +374,6 @@ li {
 				width: 80%;
 				font-size: 50px;
 				height: 50px;
-//				border-top: 2px solid;
-//				border-bottom: 2px solid;
 				padding-top: 5px;
 				text-align: center;
 }
@@ -428,7 +432,6 @@ li {
 				float: left;
 				padding-left: 5%;
 				font-size: 18px;
-//				background-color: rgba(0,0,0,0.1);
 				margin-top: 3px;
 				width: 80%;
 }
@@ -567,38 +570,49 @@ li {
 					width: 100%;
 	}
 	.global-nav {
-					width: 25%;
+					width: 100%;
 	}
 	.global-nav li {
-					display: block;
-					border-top: 2px #a9a9a9 solid;
-					border-left: 2px #a9a9a9 solid;
-					border-right: 2px #a9a9a9 solid;
 					width: 100%;
+					position: absolute;
+					background-color: rgba(0,0,0,0.6);
+					border: none;
+					z-index: 100;
 	}
 	.global-nav li:nth-child(1) {
 					margin-left: 0;
 	}
+	.global-nav li:nth-child(2) {
+					margin-top: 40px;
+	}
+	.global-nav li:nth-child(3) {
+					margin-top: 80px;
+	}
+	.global-nav li:nth-child(4) {
+					margin-top: 120px;
+	}
 	.global-nav li:nth-child(5) {
-					border-bottom: 2px #a9a9a9 solid;
-					border-right: 2px #a9a9a9 solid;
+					margin-top: 160px;
 	}
 	.global-nav li a {
 					font-size: 8px;
+					color: #fff;
+					padding-left: 80%;
+	}
+	.nav-toggle {
+					display: block;
 	}
 	.header .image {
 					position: absolute;
 					display: block;
-					left: 25%;
 					top: 97%;
-					width: 75%;
+					width: 100%;
 					float: right;
 					height: 213px;
-//					padding: 10px 0 0 10px;
 	}
 	.header .img-sentence {
 					top: 200px;
-					left: 30%;
+					left: 45%;
 					font-size: 20px;
 	}
 	.contact-icon,
@@ -662,7 +676,6 @@ li {
 					height: 100px;
 	}
 	.arrow {
-	//				display: none;
 					margin: 30px auto 10px auto;
 	}
 	.FAQ-title {

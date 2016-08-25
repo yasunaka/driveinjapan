@@ -17,11 +17,33 @@
       <guid>http://replace-this-with-your-hugo-site.com/guide/</guid>
       <description>&lt;div&gt;
     &lt;div id=&#34;FAQ&#34; class=&#34;FAQ&#34;&gt;
-        &lt;div class=&#34;FAQ-title&#34;&gt; Foreigner&#39;s guide to owning a car in Japan&lt;/div&gt;
-    &lt;!--        &lt;div id=&#34;PAYMENT&#34; class=&#34;title&#34;&gt;NUMEROUS TAXES AND FEES YOU HAVE TO PAY  WHEN YOU BUY A CAR&lt;/div&gt; --&gt;
-            &lt;div class=&#34;FAQ left detail&#34;&gt; 
-                Under construction...
-            &lt;/div&gt;
+        &lt;div class=&#34;guide-title&#34;&gt;TAXES AND FEES YOU HAVE TO PAY  WHEN YOU BUY A CAR&lt;/div&gt;
+        &lt;div id=&#34;AAT&#34; class=&#34;font20&#34;&gt;Automobile Acquisition Tax(自動車所得税)&lt;/div&gt;
+        &lt;div class=&#34;margin10&#34;&gt;Each Prefecture has a tax for the new developments and regular  maintenance of the roads’ system. Any brand new or less than  6 years old car will have to pay this tax if the cost of the car exceeds 500,000 Japanese yen. Vehicles under the value of 500,000 japanese yen will be exempted from the automobile acquisition tax. &lt;br&gt;&lt;br&gt;Tax rates - Private cars - 5%, Business vehicles  - 3%, Lightweight vehicles - 3%
+        &lt;/div&gt;
+        &lt;div id=&#34;RF&#34; class=&#34;font20&#34;&gt;Recycling Fees(リサイクル費用)&lt;/div&gt;
+        &lt;div class=&#34;margin10&#34;&gt;According to the Japan recycle low every vehicle must gain a recycle certificate to be used to shred and recycle a vehicle. This must be paid by the new owner before transferring the vehicle ownership to him/her. The cost depends on the volume of recycling/shredding pieces.
+        &lt;/div&gt;
+        &lt;div class=&#34;guide-title&#34;&gt;BIANNUAL TAXES(Basic rule)&lt;/div&gt;
+        &lt;div id=&#34;CSI&#34; class=&#34;font20&#34;&gt;Car Safety Inspection(車検 - Shaken)&lt;/div&gt;
+        &lt;div class=&#34;margin10&#34;&gt;This inspection defines whether the car has been maintained up to a standard which is safe enough to be driven on Japanese roads. If a vehicle has been modified in an unsafe way it will be given a red sticker which says ( 不正改造車-fuseikaizousha).Car inspection must be done once in every two years for used cars. In case of a brand new car first inspection is valid for 3 years from the day of purchase.The cost of the inspection differs from white plate cars to yellow plate cars.
+&lt;br&gt;&lt;br&gt;This can cost from 70,000 to 100,000 yen for a Yellow plate car and 120,000JPY upwards for a White plate car. 
+        &lt;/div&gt;
+        &lt;div id=&#34;ATT&#34; class=&#34;font20&#34;&gt;Automobile Tonnage Tax(自動車重量税 - Jidosha juryo-zei)&lt;/div&gt;
+        &lt;div class=&#34;margin10&#34;&gt;Payed with your car inspection (Shaken). The amount you pay varies according to the weight of the car. 
+        &lt;/div&gt;
+        &lt;div id=&#34;CALI&#34; class=&#34;font20&#34;&gt;Compulsory Automobile Liability Insurance(自賠責保険)&lt;/div&gt;
+        &lt;div class=&#34;margin10&#34;&gt;According to Japanese law every car owner must insure their cars. This is a basic insurance that gives the minimum coverage only to the victim during an accident. This will not cover any damages caused to you, your car or any other property in case of an accident. This can cost up to 30,000 yen.
+        &lt;/div&gt;
+        &lt;div class=&#34;guide-title&#34;&gt;ANNUAL TAXES&lt;/div&gt;
+        &lt;div class=&#34;font20&#34;&gt;Annual Automobile Tax(自動車税 - Jidosha -zei)&lt;/div&gt;
+        &lt;div class=&#34;margin10&#34;&gt;Charged annually by each prefecture for the cars which has 661 cc engine size or more. This tax varies according to the type of your car, engine size and usage. There are cases that disabled car owners can get a tax reduction.
+Only the white plate cars has to pay the automobile tax. For yellow plates cars  (軽自動車 -  kei-jidosha) the municipal council of each vehicle will charge a different tax call ( 軽自動車税- Kei-jidosha-zei). 
+        &lt;/div&gt;
+        &lt;div class=&#34;guide-title&#34;&gt;OTHER EXPENSES TO KEEP IN MIND&lt;/div&gt;
+        &lt;div class=&#34;font20&#34;&gt;Voluntary Automobile Insurance&lt;/div&gt;
+        &lt;div class=&#34;margin10&#34;&gt;Because the Compulsory Insurance doesn&#39;t cover all the damages during an accident it is recommended for you to get a voluntary insurance. This will cover the damages caused to your car, any property, and injuries to you. This insurance will also give you the option to add or remove the areas you need coverage in case of an accident.
+&lt;br&gt;&lt;br&gt;This can cost up to 70, 000 yen depending on the car.
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
