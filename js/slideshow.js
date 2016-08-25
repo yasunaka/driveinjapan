@@ -7,7 +7,7 @@ function slideshow() {
 				$('#top-img-sentence').empty();
 				document.getElementById('top-img').src = "/images/middle-pic" + num + ".jpg";
 				if(num == 1) {
-					$('#top-img-sentence').html("Have your own car,<br><p style='margin-left:20px'> and drive it in Japan.</p>");
+					$('#top-img-sentence').html("Have your own car,<br><p style='margin-left:20px'> and drive it in Japan.</p></div>");
 				} else if (num == 2) {
 					$('#top-img-sentence').html("Direct from auction.<br><p style='margin-left:20px'> Drive it in Japan.</p>");
 				} else {
