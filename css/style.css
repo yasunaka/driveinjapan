@@ -74,18 +74,7 @@ li {
 				border-top: 1px solid #a9a9a9;
 				border-bottom: 1px solid #a9a9a9;
 }
-.global-nav li:nth-child(1) {
-				margin-left: 10%;
-}
-.global-nav li:nth-child(5) {
-				border-right: 1px dashed #a9a9a9;
-}
-.global-nav li {
-				width: 16%;
-				float: left;
-				border-left: 1px #a9a9a9 dashed;
-}
-.global-nav li a {
+.global-nav a {
 				height: 40px;
 				width: 100%;
 				line-height: 40px;
@@ -94,7 +83,24 @@ li {
 				font-size: 11px;
 				letter-spacing: 1px;
 }
-.global-nav a:hover {
+.global-nav a .nav-item {
+				display: block;
+				position: relative;
+				width: 16%;
+				height: 40px;
+				float: left;
+				border-left: 1px #a9a9a9 dashed;
+}
+.global-nav a li {
+				display: block;
+}
+.global-nav a .nav-item.first {
+				margin-left: 10%;
+}
+.global-nav a .nav-item.last {
+				border-right: 1px dashed #a9a9a9;
+}
+.global-nav a:hover .nav-item {
 				background-color: #c00000;
 				color: #fff;
 }
@@ -202,30 +208,6 @@ li {
 				margin-left: 1%;
 				padding-top: 10px;
 				float: left;
-}
-.number {
-				display: block;
-				width: 40px;
-				height: 40px;
-				font-size: 20px;
-				border: 2px solid #0000ff;
-				border-radius: 20px;
-				text-align: center;
-				position: relative;
-				color: #0000ff;
-				margin-left: 10%;
-				padding: 10px;
-}
-.number::after {
-				position: absolute;
-				content: '';
-				display: block;
-				width: 30px;
-				height: 30px;
-				border: 2px solid #0000ff;
-				border-radius: 15px;
-				top: 3px;
-				left: 3px;
 }
 .title {
 				font-size: 25px;
@@ -572,35 +554,34 @@ li {
 	.global-nav {
 					width: 100%;
 	}
-	.global-nav li {
+	.global-nav a .nav-item {
+					clear: both;
 					width: 100%;
 					position: absolute;
 					background-color: rgba(0,0,0,0.6);
 					border: none;
 					z-index: 100;
-	}
-	.global-nav li:nth-child(1) {
-					margin-left: 0;
-	}
-	.global-nav li:nth-child(2) {
-					margin-top: 40px;
-	}
-	.global-nav li:nth-child(3) {
-					margin-top: 80px;
-	}
-	.global-nav li:nth-child(4) {
-					margin-top: 120px;
-	}
-	.global-nav li:nth-child(5) {
-					margin-top: 160px;
-	}
-	.global-nav li a {
-					font-size: 8px;
-					color: #fff;
-					padding-left: 80%;
-	}
-	.nav-item {
+					height: 40px;
 					display: none;
+					color: #fff;
+					padding-left: 70%;
+	}
+	.global-nav a .nav-item.first {
+					padding-top: 0;
+					margin-left: 0;
+					top: 60px;
+	}
+	.global-nav .nav-item.second {
+					top: 100px;
+	}
+	.global-nav .nav-item.third {
+					top: 140px;
+	}
+	.global-nav .nav-item.fourth {
+					top: 180px;
+	}
+	.global-nav .nav-item.last {
+					top: 220px;
 	}
 	.nav-toggle {
 					display: block;
@@ -608,7 +589,7 @@ li {
 	.header .image {
 					position: absolute;
 					display: block;
-					top: 97%;
+					top: 60px;
 					width: 100%;
 					float: right;
 					height: 213px;
