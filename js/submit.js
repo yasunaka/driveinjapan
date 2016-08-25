@@ -31,7 +31,7 @@ $('input[type="button"]').click(function(){
 		if(result == true) {
 	    $.ajax({
   	    type: "POST",
-    	  url: "#",
+    	  url: "//corporate.jpctrade.jp/api/api/SendMailAmazon/yushutu",
 	      data: $form.serialize(),
   	    timeout: 2000,
     	  beforeSend: function(xhr, settings) {
