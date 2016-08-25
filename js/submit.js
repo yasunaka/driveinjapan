@@ -1,15 +1,13 @@
-$('input[type="button"]').click(function(){
+$('#sentmail').submit(function(e){
 
+		e.preventDefault();
 		var $form = $(this);
 
-		var $name = ':text[name="name"]';
-		var name = $($name).val();
-		var $mail = ':text[name="mailaddress"]';
-		var mail = $($mail).val();
-		var $message = 'textarea';
-		var message = $($message).val();
+		var name = $(':text[name="name"]').val();
+		var mail = $(':text[name="mailaddress"]').val();
+		var message = $('textarea').val();
 
-		var $button = $form.find('button')
+		var $button = $form.find('submit')
 
 		$("#name_error").empty();		
 		$("#mail_error").empty();		
@@ -30,24 +28,22 @@ $('input[type="button"]').click(function(){
 
 		if(result == true) {
 	    $.ajax({
-  	    type: "POST",
     	  url: "//corporate.jpctrade.jp/api/api/SendMailAmazon/yushutu",
+  	    type: "POST",
 	      data: $form.serialize(),
-  	    timeout: 2000,
+  	    timeout: 10000,
     	  beforeSend: function(xhr, settings) {
    	  		$button.attr('disabled',true);
    	  	},
       	complete: function(xhr, settings) {
         	$button.attr('disabled', false);
       	},
-      	success: function(){
-        	$($name).val("");
-        	$($mail).val("");
-        	$($message).val("");
-        	alert("Message Sent");
+      	success: function(xhr, setteings){
+					$form[0].reset();
+					alert("Message Sent");
       	},
-      	error: function(){
-        	alert("Could't send mail. Please resend later.")
+      	error: function(xhr, settings){
+        	alert("Couldn't send mail. Please resend later.")
      		}
     	});
 		}
