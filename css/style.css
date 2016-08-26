@@ -34,34 +34,73 @@ li {
 				margin-left: 8%;
 				width: 30%;
 }
-.logo.logo-img.left {
+.logo.logo-img.right {
 				width: 30%;
 				margin-left: 0;
 }
-.logo.logo-text {
-				position: absolute;
-				top: 46px;
-				margin-left: 2.5%;
-				font-size: 20px;
-				width: 300px;
-				color: #000;
-}
+
 .header-contact {
 				display: inline-block;
 				position: absolute;
 				right: 5%;
-				top: 10px;
 				width: 200px;
 				letter-spacing: 1px;
 				font-size: 20px;
+				top: 10px;
 }
 .contact-icon {
-				margin-top: 10%;
 				display: inline-block;
 				margin-left: 15%;
 }
 .contact-text {
 				display: inline-block;
+}
+.lang-container {
+				display: block;
+				height: 15px;
+				position: absolute;
+				top: 45px;
+				right: 22%;
+				font-size: 15px;
+				color: #666;
+}
+.lang-container:hover {
+				color: #c00000;
+}
+.lang-container:hover .lang-box {
+				display: block;
+}
+.lang-container.right {
+				right: 15%;
+}
+.lang-container.right-sec {
+				right: 7%;
+}
+.lang-box {
+				display: none;
+				position: absolute;
+				height: 50px;
+				width: 100px;
+				background-color: rgba(0,0,0,0.6);
+				z-index: 149;
+}
+.lang-container.right:hover {
+				cursor: pointer;
+}
+.chinese {
+				display: block;
+				width: 100px;
+				color: #fff;
+				text-align: center;
+				padding: 5px 0;
+}
+.lang-box a {
+				display: block;
+				height: 25px;
+				z-index: 150;
+}
+.lang-box a:hover {
+				background-color: rgba(0,0,0,0.8);
 }
 .nav-wrapper {
 				background-color: #fff;
@@ -557,6 +596,16 @@ li {
 	.nav-wrapper {
 					width: 100%;
 	}
+	.lang-container {
+					top: 48px;
+					right: 50%;
+	}
+	.lang-container.right {
+					right: 35%;
+	}
+	.lang-container.right-sec {
+					right: 20%;
+	}
 	.global-nav,
 	.global-nav a {
 					display: none;
@@ -567,7 +616,7 @@ li {
 					position: absolute;
 					z-index: 100;
 					border: none;
-					top: 60px;
+					top: 70px;
 					height: 200px;
 					width: 100%;
 					background-color: rgba(0,0,0,0.6);
@@ -594,7 +643,7 @@ li {
 	.header .image {
 					position: absolute;
 					display: block;
-					top: 60px;
+					top: 70px;
 					width: 100%;
 					float: right;
 					height: 200px;

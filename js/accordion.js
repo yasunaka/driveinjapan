@@ -3,7 +3,9 @@ $(function() {
 				$('.nav-toggle').click( function() {
 								$('.global-nav-for-cellphone').slideToggle();
 				});
-
+				$('#chinese').click( function() {
+								$('.lang-box').slideToggle();
+				});
 });
 $(function() {
 				var width = $(document).width()

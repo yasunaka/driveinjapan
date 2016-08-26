@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kos on My New Hugo Site</title>
+    <link>http://replace-this-with-your-hugo-site.com/ko/</link>
+    <description>Recent content in Kos on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/ko/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://replace-this-with-your-hugo-site.com/ko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/ko/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;ko&#34;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0, minimum-scale=1.0&#34;&gt;
+    &lt;title&gt;&#34;에 관해서&#34;&lt;/title&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;http://replace-this-with-your-hugo-site.com/css/reset.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;http://replace-this-with-your-hugo-site.com/css/style.css&#34;&gt;
+  &lt;/head&gt;
+	&lt;body&gt;
+		&lt;a href=&#34;#about-us&#34;&gt;&lt;div class=&#34;fixed-contact left fa fa-phone&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;a href=&#34;#contact-us&#34;&gt;&lt;div class=&#34;fixed-contact fa fa-envelope&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;div class=&#34;header&#34;&gt;
+			&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/&#34;&gt;&lt;img class=&#34;logo logo-img&#34; src=&#34;http://replace-this-with-your-hugo-site.com/images/logo.jpg&#34;&gt;&lt;img class=&#34;logo logo-img right&#34; src=&#34;http://replace-this-with-your-hugo-site.com/images/jpc-logo-left.jpg&#34;&gt;&lt;/a&gt;
+			&lt;a class=&#34;lang-container&#34; href=&#34;http://replace-this-with-your-hugo-site.com/&#34;&gt;English&lt;/a&gt;
+			&lt;div id=&#34;chinese&#34; class=&#34;lang-container right&#34;&gt; 中文
+				&lt;div class=&#34;lang-box&#34;&gt;
+					&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/zh-cn/&#34;&gt;&lt;div class=&#34;chinese&#34;&gt;简体字&lt;br&gt;&lt;/div&gt;&lt;/a&gt;
+					&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/zh-tw/&#34;&gt;&lt;div class=&#34;chinese down&#34;&gt;繁體字&lt;/div&gt;&lt;/a&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;a class=&#34;lang-container right-sec&#34; href=&#34;http://replace-this-with-your-hugo-site.com/ko/index.html&#34;&gt;한국어&lt;/a&gt;
+			&lt;div class=&#34;header-contact&#34;&gt;
+				&lt;i class=&#34;contact-icon fa fa-phone&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+				&lt;p class=&#34;contact-text&#34;&gt;03-5245-7731&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;nav-toggle&#34;&gt;&lt;/div&gt;
+			&lt;div class=&#34;nav-wrapper&#34;&gt;
+				&lt;div class=&#34;global-nav&#34;&gt;
+					&lt;a class=&#34;first&#34; href=&#34;http://replace-this-with-your-hugo-site.com/ko/#&#34;&gt;HOME&lt;/a&gt;
+          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#driveinjapan&#34;&gt;Drive in Japan&lt;/a&gt;
+          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#procedure&#34;&gt;HOW TO START&lt;/a&gt;
+          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#FAQ&#34;&gt;FAQ&lt;/a&gt;
+          &lt;a class=&#34;last&#34; href=&#34;http://replace-this-with-your-hugo-site.com/#about-us&#34;&gt;ABOUT US&lt;/a&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;global-nav-for-cellphone&#34;&gt;
+          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#&#34;&gt;HOME&lt;/a&gt;
+          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#driveinjapan&#34;&gt;Drive in Japan&lt;/a&gt;
+          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#procedure&#34;&gt;HOW TO START&lt;/a&gt;
+          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#FAQ&#34;&gt;FAQ&lt;/a&gt;
+          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#about-us&#34;&gt;ABOUT US&lt;/a&gt;
+				&lt;/div&gt; 
+				&lt;img id=&#34;top-img&#34; class=&#34;image&#34; src=&#34;http://replace-this-with-your-hugo-site.com/images/middle-pic1.png&#34;&gt;
+        &lt;div id=&#34;top-img-sentence&#34; class=&#34;img-sentence first&#34;&gt;Have your own car,&lt;br&gt;
+				  &lt;p style=&#34;margin-left:20px&#34;&gt;and drive it in Japan.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;white&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;driveinjapan&#34; class=&#34;explain&#34;&gt;
+      &lt;p class=&#34;title&#34;&gt;에 관해서&lt;/p&gt;
+			&lt;div class=&#34;detail&#34;&gt;고객님이 생각하시는 예산에 맞춰 원하시는 자동차를 옥션에서 대리 구매해 드립니다.
+				&lt;p class=&#34;detail-short&#34;&gt;물론 서류 작업도 대행으로 해 드립니다.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;content&#34;&gt;
+      &lt;div class=&#34;title&#34;&gt;다국어 대응&lt;/div&gt;
+      &lt;i class=&#34;picture fa fa-globe&#34;&gt;&lt;/i&gt;
+      &lt;div class=&#34;sentence&#34;&gt;영어,중국어,한국어 등 여러나라의 언으로 대응 해 드립니다.&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;content&#34;&gt;
+      &lt;div class=&#34;title&#34;&gt;옥션에서 대리 구매&lt;/div&gt;
+      &lt;i class=&#34;picture fa fa-gavel&#34;&gt;&lt;/i&gt;
+      &lt;div class=&#34;sentence&#34;&gt;가지고 계신 스마트폰,핸드폰 또는 컴퓨터에서 희망사니느 자동차와 옥션에 대한 정보를 확인할수 있습니다. 혹시나 필요하신다면 자동차에 관한 자세한 정보를 번역하여 설명해 드리겠습니다.&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;content&#34;&gt;
+      &lt;div class=&#34;title&#34;&gt;자동차 선택&lt;/div&gt;
+      &lt;i class=&#34;picture fa fa-car&#34;&gt;&lt;/i&gt;
+			&lt;div class=&#34;sentence&#34;&gt;옥션은 여라장소가 있지만 한 장소 만으로 15,000대의 자동차가 하루에 거래가 되고 있습니다. 한마디로 고객님이 생각하시는 예산과 희망에 맟춰 대리 구매를 해드릴수 있습니다.&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+    &lt;img class=&#34;image middle&#34; src=&#34;http://replace-this-with-your-hugo-site.com/images/middle-pic2.jpg&#34;&gt;
+    &lt;div id=&#34;procedure&#34; class=&#34;procedure&#34;&gt;구매 방법
+      &lt;div class=&#34;step&#34;&gt;
+        &lt;div class=&#34;step-left&#34;&gt;
+          &lt;div class=&#34;step-title&#34;&gt;STEP 1
+            &lt;p class=&#34;name&#34;&gt;회원등록&lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;step-pic-register&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;step-right&#34;&gt;
+          &lt;ul&gt;
+						&lt;li&gt;먼저&lt;a href=&#34;//www.jpctrade.com&#34; target=&#34;_blank&#34;&gt;JPC TRADE CO. LTD.&lt;/a&gt;에 회원 등록을 해주시기 바랍니다.&lt;/li&gt;
+						&lt;li&gt;다음 원하시는 자동차를 적어주시면 빠른 시간 내에 연락 드리겠습니다.&lt;/li&gt;
+						&lt;li&gt;혹시나 궁금한 점이 있으시면 언제든지 연락 주세요.&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;i class=&#34;clearfix arrow fa fa-arrow-down&#34;&gt;&lt;/i&gt;
+      &lt;div class=&#34;step&#34;&gt;
+        &lt;div class=&#34;step-left&#34;&gt;
+          &lt;div class=&#34;step-title&#34;&gt;STEP 2
+            &lt;p class=&#34;name&#34;&gt;자동차 검색&lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;step-pic-search&#34;&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;step-right&#34;&gt;
+          &lt;ul&gt;
+						&lt;li&gt;자동차를 구매하실 의향이 있으시다는 뜻으로 받아들이기 위해 보증금(100%환불가능) 을 지불해 주시기 바랍니다.&lt;/li&gt;
+						&lt;li&gt;150만엔 까지는 보증금을 10만엔.&lt;/li&gt;
+						&lt;li&gt;150만엔 부터 400만엔 까지는 자동차 가격의 20%를 보증금으로 받습니다400만엔 이상은 연락을 통해 상담해주시기 바랍니다.&lt;/li&gt;
+						&lt;li&gt;보증금을 지불해주시면 옥션 시스템안에서 원하시는 자동차의 메이커, 색깔, 차종을 선택하실수 있습니다.&lt;/li&gt;
+					&lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;i class=&#34;clearfix arrow fa fa-arrow-down&#34;&gt;&lt;/i&gt;
+      &lt;div class=&#34;step&#34;&gt;
+        &lt;div class=&#34;step-left&#34;&gt;
+          &lt;div class=&#34;step-title&#34;&gt;STEP 3
+            &lt;p class=&#34;name&#34;&gt;입찰&lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;step-pic&#34;&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;step-right&#34;&gt;
+          &lt;ul&gt;
+						&lt;li&gt;원하시는 자동차에 대한 정보를 입수하시고 자동차를 정하셨다면 옥션에서 얼마만큼의 금액을 입찰하실건지 알려주시기 바랍니다.&lt;/li&gt;
+						&lt;li&gt;(정해진 금액을 알려주시면 옥션에서 정해주신 금액까지 입찰을 시작하겠습니다.)&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;i class=&#34;clearfix arrow fa fa-arrow-down&#34;&gt;&lt;/i&gt;
+      &lt;div class=&#34;step&#34;&gt;
+        &lt;div class=&#34;step-left&#34;&gt;
+          &lt;div class=&#34;step-title&#34;&gt;STEP 4
+            &lt;p class=&#34;name&#34;&gt;Payment&lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;step-pic&#34;&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;step-right&#34;&gt;
+          &lt;ul&gt;
+            &lt;li&gt;After making a successful bid, Drive in Japan mwill make a payment for the vehicle, and send you the invoice of your balance.&lt;/li&gt;
+            &lt;li&gt;After we receive your payment, we will deliver the vehicle to you or arrange for you to pick it up.&lt;/li&gt;
+          &lt;/ul&gt;				
+        &lt;/div&gt;				
+      &lt;/div&gt;				
+    &lt;/div&gt;				
+		&lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;FAQ&#34; class=&#34;FAQ&#34;&gt;
+			&lt;div class=&#34;FAQ-title&#34;&gt;외국인이 일본에서 자동차를 가질수 있는 가이드&lt;/div&gt;
+      &lt;div class=&#34;FAQ-shortbox&#34;&gt;
+        &lt;div class=&#34;shortbox-title&#34;&gt;기본 필요 사항&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;detail&#34;&gt;주차장 증명서&lt;/div&gt;&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;detail&#34;&gt;인감&lt;/div&gt;&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;detail&#34;&gt;인감증명서&lt;/div&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;FAQ-shortbox&#34;&gt;
+        &lt;div class=&#34;shortbox-title&#34;&gt;지불 사항&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;detail&#34;&gt;자동차세&lt;/div&gt;&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;detail&#34;&gt;리사이클 비용 (재활용 요금)&lt;/div&gt;&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;detail&#34;&gt;정부 보험 (自賠責保険)&lt;/div&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;FAQ-longbox&#34;&gt;
+        &lt;div class=&#34;left first&#34;&gt;
+					&lt;div class=&#34;topic&#34;&gt;자동차 ~ 은 무엇인가&lt;/div&gt;
+          &lt;div class=&#34;detail&#34;&gt;
+            &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#AAT&#34;&gt;자동차 검사증(車検)은 무엇인가&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;topic&#34;&gt;자동차 ~ 은 무엇인가&lt;/div&gt;
+          &lt;div class=&#34;detail&#34;&gt;
+            &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#RF&#34;&gt;자동차소득세(自動車所得税) 은 무엇인가&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;topic&#34;&gt;자동차 ~ 은 무엇인가&lt;/div&gt;
+          &lt;div class=&#34;detail&#34;&gt;
+            &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#CSI&#34;&gt;자동차 검사증(車検)은 무엇인가&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;topic&#34;&gt;자동차 ~ 은 무엇인가&lt;/div&gt;
+          &lt;div class=&#34;detail&#34;&gt;
+            &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#ATT&#34;&gt;자동차 중량세(自動車重量税) 은 무엇인가&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;topic&#34;&gt;자동차 ~ 은 무엇인가&lt;/div&gt;
+          &lt;div class=&#34;detail&#34;&gt;
+						&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#CALI&#34;&gt;자동차 정부 보험 (自賠責保険）은 무엇인가&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;topic color&#34;&gt;HOW TO ~ ?&lt;/div&gt;
+          &lt;div class=&#34;detail&#34;&gt;
+            &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#DL&#34;&gt;운전면허(運転免許) 취득 방법&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;topic color&#34;&gt;HOW TO ~ ?&lt;/div&gt;
+          &lt;div class=&#34;detail&#34;&gt;
+						&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#howtopyAAT&#34;&gt;자동차세금(自動車税) 지불 방법 &lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;topic color&#34;&gt;HOW TO ~ ?&lt;/div&gt;
+          &lt;div class=&#34;detail&#34;&gt;
+						&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#PSC&#34;&gt;주차장증명(車庫証明) 취득방법&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;left&#34;&gt;
+          &lt;div class=&#34;topic color&#34;&gt;HOW TO ~ ?&lt;/div&gt;
+          &lt;div class=&#34;detail&#34;&gt;
+						&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#HHC&#34;&gt;인감증명(判子証明) 취득방법&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;footer&#34;&gt;
+      &lt;div id=&#34;about-us&#34; class=&#34;about&#34;&gt;About Us &lt;br&gt;
+        &lt;a href=&#34;//www.jpctrade.com&#34; target=&#34;_blank&#34;&gt;&lt;div class=&#34;footer-logo&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;table&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;i class=&#34;footer-icon fa fa-clock-o&#34;&gt;&lt;/i&gt;&lt;/td&gt;
+            &lt;td class=&#34;footer-detail&#34;&gt;Mon. - Sat.  9 am - 6 pm (Japan time zone)&lt;br&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;i class=&#34;footer-icon fa fa-phone&#34;&gt;&lt;/i&gt;&lt;/td&gt;
+            &lt;td class=&#34;footer-detail&#34;&gt;+81-3-5245-7731&lt;br&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;i class=&#34;footer-icon fa fa-home&#34;&gt;&lt;/i&gt;&lt;/td&gt;
+            &lt;td class=&#34;footer-detail&#34;&gt;
+              &lt;a href=&#34;//www.jpctrade.com&#34; target=&#34;_blank&#34;&gt;J PC TRADE&lt;/a&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;i class=&#34;footer-icon fa fa-map-marker&#34;&gt;&lt;/i&gt;&lt;/td&gt;
+            &lt;td class=&#34;footer-detail&#34;&gt;8F, TK Monzennakacho Bldg, 1-2-13, Etchujima, Koto-ku, Tokyo, 135-0044 Japan&lt;br&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/table&gt;
+        &lt;iframe class=&#34;map&#34; src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d701.3617472692335!2d139.7921312556616!3d35.67008863834253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018896d15f16a35%3A0x85c044a9561028ed!2z44CSMTM1LTAwNDQg5p2x5Lqs6YO95rGf5p2x5Yy66LaK5Lit5bO277yR5LiB55uu77yS4oiS77yR77yT!5e0!3m2!1sja!2sjp!4v1441620573215&#34; width=&#34;100%&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+      &lt;/div&gt;
+      &lt;div id=&#34;contact-us&#34; class=&#34;contact&#34;&gt;Contact Us &lt;br&gt;
+        &lt;form id=&#34;sentmail&#34;&gt;
+					&lt;input type=&#34;hidden&#34; name=&#34;service&#34; value=&#34;Drive in Japan&#34;&gt;&lt;/input&gt;
+					&lt;input type=&#34;text&#34; placeholder=&#34;Name&#34; name=&#34;name&#34;&gt;&lt;/input&gt;
+          &lt;p id=&#34;name_error&#34; class=&#34;error_m&#34;&gt;&lt;/p&gt;
+					&lt;input type=&#34;text&#34; placeholder=&#34;Mail Address&#34; name=&#34;mailaddress&#34;&gt;&lt;/input&gt;
+          &lt;p id=&#34;mail_error&#34; class=&#34;error_m&#34;&gt;&lt;/p&gt;
+					&lt;textarea placeholder=&#34;Message&#34; cols=40 rows=10 name=&#34;message&#34; style=&#34;white-space:pre-wrap;&#34;&gt;&lt;/textarea&gt;
+          &lt;p id=&#34;message_error&#34; class=&#34;error_m&#34;&gt;&lt;/p&gt;
+					&lt;input class=&#34;submit-button&#34; type=&#34;submit&#34; value=&#34;Submit&#34;&gt;&lt;/input&gt;
+				&lt;/form&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;clearfix copyright&#34;&gt;Copyright &amp;copy; 2016 DRIVE IN JAPAN
+      &lt;/div&gt;
+    &lt;/div&gt;
+		&lt;script src=&#34;https://code.jquery.com/jquery-1.10.2.js&#34;&gt;&lt;/script&gt;
+		&lt;script type=&#34;text/javascript&#34; src=&#34;http://replace-this-with-your-hugo-site.com/js/submit.js&#34;&gt;&lt;/script&gt;
+		&lt;script type=&#34;text/javascript&#34; src=&#34;http://replace-this-with-your-hugo-site.com/js/accordion.js&#34;&gt;&lt;/script&gt;
+	&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
