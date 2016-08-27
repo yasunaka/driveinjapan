@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.driveinjapan.com/</loc>
+    <loc>//www.driveinjapan.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.driveinjapan.com/guide/</loc>
+    <loc>//www.driveinjapan.com/guide/</loc>
   </url>
   
   <url>
-    <loc>http://www.driveinjapan.com/ko/</loc>
+    <loc>//www.driveinjapan.com/ko/</loc>
   </url>
   
   <url>
-    <loc>http://www.driveinjapan.com/zh-cn/</loc>
+    <loc>//www.driveinjapan.com/zh-cn/</loc>
   </url>
   
   <url>
-    <loc>http://www.driveinjapan.com/zh-tw/</loc>
+    <loc>//www.driveinjapan.com/zh-tw/</loc>
   </url>
   
 </urlset>

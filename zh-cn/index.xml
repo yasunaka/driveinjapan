@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zh-cns on Drive in Japan</title>
-    <link>http://www.driveinjapan.com/zh-cn/</link>
-    <description>Recent content in Zh-cns on Drive in Japan</description>
+    <title>Zh-cns on </title>
+    <link>//www.driveinjapan.com/zh-cn/</link>
+    <description>Recent content in Zh-cns on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="http://www.driveinjapan.com/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//www.driveinjapan.com/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://www.driveinjapan.com/zh-cn/</link>
+      <link>//www.driveinjapan.com/zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.driveinjapan.com/zh-cn/</guid>
+      <guid>//www.driveinjapan.com/zh-cn/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;zh-CN&#34;&gt;
   &lt;head&gt;
@@ -21,22 +20,22 @@
     &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0, minimum-scale=1.0&#34;&gt;
     &lt;title&gt;&#34;驾驶在日本&#34;&lt;/title&gt;
     &lt;link rel=&#34;stylesheet&#34; href=&#34;https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css&#34;&gt;
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.driveinjapan.com/css/reset.css&#34;&gt;
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.driveinjapan.com/css/style.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;//www.driveinjapan.com/css/reset.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;//www.driveinjapan.com/css/style.css&#34;&gt;
   &lt;/head&gt;
 	&lt;body&gt;
-		&lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#about-us&#34;&gt;&lt;div class=&#34;fixed-contact left fa fa-phone&#34;&gt;&lt;/div&gt;&lt;/a&gt;
-		&lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#contact-us&#34;&gt;&lt;div class=&#34;fixed-contact fa fa-envelope&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;a href=&#34;//www.driveinjapan.com/zh-cn/#about-us&#34;&gt;&lt;div class=&#34;fixed-contact left fa fa-phone&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;a href=&#34;//www.driveinjapan.com/zh-cn/#contact-us&#34;&gt;&lt;div class=&#34;fixed-contact fa fa-envelope&#34;&gt;&lt;/div&gt;&lt;/a&gt;
 		&lt;div class=&#34;header&#34;&gt;
-			&lt;a href=&#34;http://www.driveinjapan.com/zh-cn/&#34;&gt;&lt;img class=&#34;logo logo-img&#34; src=&#34;http://www.driveinjapan.com/images/logo.jpg&#34;&gt;&lt;img class=&#34;logo logo-img right&#34; src=&#34;http://www.driveinjapan.com/images/jpc-logo-left.jpg&#34;&gt;&lt;/a&gt;
-			&lt;a class=&#34;lang-container&#34; href=&#34;http://www.driveinjapan.com/&#34;&gt;English&lt;/a&gt;
+			&lt;a href=&#34;//www.driveinjapan.com/zh-cn/&#34;&gt;&lt;img class=&#34;logo logo-img&#34; src=&#34;//www.driveinjapan.com/images/logo.jpg&#34;&gt;&lt;img class=&#34;logo logo-img right&#34; src=&#34;//www.driveinjapan.com/images/jpc-logo-left.jpg&#34;&gt;&lt;/a&gt;
+			&lt;a class=&#34;lang-container&#34; href=&#34;//www.driveinjapan.com/&#34;&gt;English&lt;/a&gt;
       &lt;div id=&#34;chinese&#34; class=&#34;lang-container right&#34;&gt; 中文
 				&lt;div class=&#34;lang-box&#34;&gt;
-					&lt;a href=&#34;http://www.driveinjapan.com/zh-cn/&#34;&gt;&lt;div class=&#34;chinese&#34;&gt;简体字&lt;br&gt;&lt;/div&gt;&lt;/a&gt;
-					&lt;a href=&#34;http://www.driveinjapan.com/zh-tw/&#34;&gt;&lt;div class=&#34;chinese down&#34;&gt;繁體字&lt;/div&gt;&lt;/a&gt;
+					&lt;a href=&#34;//www.driveinjapan.com/zh-cn/&#34;&gt;&lt;div class=&#34;chinese&#34;&gt;简体字&lt;br&gt;&lt;/div&gt;&lt;/a&gt;
+					&lt;a href=&#34;//www.driveinjapan.com/zh-tw/&#34;&gt;&lt;div class=&#34;chinese down&#34;&gt;繁體字&lt;/div&gt;&lt;/a&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
-			&lt;a class=&#34;lang-container right-sec&#34; href=&#34;http://www.driveinjapan.com/ko/&#34;&gt;한국어&lt;/a&gt;
+			&lt;a class=&#34;lang-container right-sec&#34; href=&#34;//www.driveinjapan.com/ko/&#34;&gt;한국어&lt;/a&gt;
 			&lt;div class=&#34;header-contact&#34;&gt;
 				&lt;i class=&#34;contact-icon fa fa-phone&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 				&lt;p class=&#34;contact-text&#34;&gt;03-5245-7731&lt;/p&gt;
@@ -44,20 +43,20 @@
 			&lt;div class=&#34;nav-toggle&#34;&gt;&lt;/div&gt;
 			&lt;div class=&#34;nav-wrapper&#34;&gt;
 				&lt;div class=&#34;global-nav&#34;&gt;
-					&lt;a class=&#34;first&#34; href=&#34;http://www.driveinjapan.com/zh-cn/#&#34;&gt;主页&lt;/a&gt;
-          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#driveinjapan&#34;&gt;驾驶在日本&lt;/a&gt;
-          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#procedure&#34;&gt;如何购买&lt;/a&gt;
-          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#FAQ&#34;&gt;问题集&lt;/a&gt;
-          &lt;a class=&#34;last&#34; href=&#34;http://www.driveinjapan.com/zh-cn/#about-us&#34;&gt;关于我们&lt;/a&gt;
+					&lt;a class=&#34;first&#34; href=&#34;//www.driveinjapan.com/zh-cn/#&#34;&gt;主页&lt;/a&gt;
+          &lt;a href=&#34;//www.driveinjapan.com/zh-cn/#driveinjapan&#34;&gt;驾驶在日本&lt;/a&gt;
+          &lt;a href=&#34;//www.driveinjapan.com/zh-cn/#procedure&#34;&gt;如何购买&lt;/a&gt;
+          &lt;a href=&#34;//www.driveinjapan.com/zh-cn/#FAQ&#34;&gt;问题集&lt;/a&gt;
+          &lt;a class=&#34;last&#34; href=&#34;//www.driveinjapan.com/zh-cn/#about-us&#34;&gt;关于我们&lt;/a&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;global-nav-for-cellphone&#34;&gt;
-          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#&#34;&gt;主页&lt;/a&gt;
-          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#driveinjapan&#34;&gt;驾驶在日本&lt;/a&gt;
-          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#procedure&#34;&gt;如何购买&lt;/a&gt;
-          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#FAQ&#34;&gt;问题集&lt;/a&gt;
-          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#about-us&#34;&gt;关于我们&lt;/a&gt;
+          &lt;a href=&#34;//www.driveinjapan.com/zh-cn/#&#34;&gt;主页&lt;/a&gt;
+          &lt;a href=&#34;//www.driveinjapan.com/zh-cn/#driveinjapan&#34;&gt;驾驶在日本&lt;/a&gt;
+          &lt;a href=&#34;//www.driveinjapan.com/zh-cn/#procedure&#34;&gt;如何购买&lt;/a&gt;
+          &lt;a href=&#34;//www.driveinjapan.com/zh-cn/#FAQ&#34;&gt;问题集&lt;/a&gt;
+          &lt;a href=&#34;//www.driveinjapan.com/zh-cn/#about-us&#34;&gt;关于我们&lt;/a&gt;
 				&lt;/div&gt; 
-				&lt;img id=&#34;top-img&#34; class=&#34;image&#34; src=&#34;http://www.driveinjapan.com/images/middle-pic1.png&#34;&gt;
+				&lt;img id=&#34;top-img&#34; class=&#34;image&#34; src=&#34;//www.driveinjapan.com/images/middle-pic1.png&#34;&gt;
         &lt;div id=&#34;top-img-sentence&#34; class=&#34;img-sentence first&#34;&gt;Have your own car,&lt;br&gt;
 				  &lt;p style=&#34;margin-left:20px&#34;&gt;and drive it in Japan.&lt;/p&gt;
         &lt;/div&gt;
@@ -87,7 +86,7 @@
 			&lt;div class=&#34;sentence&#34;&gt;每天二手车的拍卖量超过15000台，您一定能找到自己喜爱并且符合预算和需求的车。&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
-    &lt;img class=&#34;image middle&#34; src=&#34;http://www.driveinjapan.com/images/middle-pic2.jpg&#34;&gt;
+    &lt;img class=&#34;image middle&#34; src=&#34;//www.driveinjapan.com/images/middle-pic2.jpg&#34;&gt;
 		&lt;div id=&#34;procedure&#34; class=&#34;procedure&#34;&gt;如何购买爱车
       &lt;div class=&#34;step&#34;&gt;
         &lt;div class=&#34;step-left&#34;&gt;
@@ -179,55 +178,55 @@
         &lt;div class=&#34;left first&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;什么是〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#AAT&#34;&gt;什么是汽车所得税？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;//www.driveinjapan.com/guide/#AAT&#34;&gt;什么是汽车所得税？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;什么是〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-            &lt;a href=&#34;http://www.driveinjapan.com/guide/#RF&#34;&gt;什么是回收费用？&lt;/a&gt;&lt;/div&gt;
+            &lt;a href=&#34;//www.driveinjapan.com/guide/#RF&#34;&gt;什么是回收费用？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;什么是〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#CSI&#34;&gt;什么是车检？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;//www.driveinjapan.com/guide/#CSI&#34;&gt;什么是车检？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;什么是〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#ATT&#34;&gt;什么是汽车重量税？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;//www.driveinjapan.com/guide/#ATT&#34;&gt;什么是汽车重量税？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;什么是〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#CALI&#34;&gt;什么是强制汽车责任保险？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;//www.driveinjapan.com/guide/#CALI&#34;&gt;什么是强制汽车责任保险？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic color&#34;&gt;如何〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#DL&#34;&gt;如何去取得驾驶证？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;//www.driveinjapan.com/guide/#DL&#34;&gt;如何去取得驾驶证？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic color&#34;&gt;如何〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-            &lt;a href=&#34;http://www.driveinjapan.com/guide/#howtopyAAT&#34;&gt;How to pay Annual Automobile Tax(自動車税)?&lt;/a&gt;&lt;/div&gt;
+            &lt;a href=&#34;//www.driveinjapan.com/guide/#howtopyAAT&#34;&gt;How to pay Annual Automobile Tax(自動車税)?&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic color&#34;&gt;如何〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#PSC&#34;&gt;如何去办理车库证明？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;//www.driveinjapan.com/guide/#PSC&#34;&gt;如何去办理车库证明？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
 					&lt;div class=&#34;topic color&#34;&gt;如何〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#HHC&#34;&gt;如何去办理印章？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;//www.driveinjapan.com/guide/#HHC&#34;&gt;如何去办理印章？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
@@ -272,8 +271,8 @@
       &lt;/div&gt;
     &lt;/div&gt;
 		&lt;script src=&#34;https://code.jquery.com/jquery-1.10.2.js&#34;&gt;&lt;/script&gt;
-		&lt;script type=&#34;text/javascript&#34; src=&#34;http://www.driveinjapan.com/js/submit.js&#34;&gt;&lt;/script&gt;
-		&lt;script type=&#34;text/javascript&#34; src=&#34;http://www.driveinjapan.com/js/accordion.js&#34;&gt;&lt;/script&gt;
+		&lt;script type=&#34;text/javascript&#34; src=&#34;//www.driveinjapan.com/js/submit.js&#34;&gt;&lt;/script&gt;
+		&lt;script type=&#34;text/javascript&#34; src=&#34;//www.driveinjapan.com/js/accordion.js&#34;&gt;&lt;/script&gt;
 	&lt;/body&gt;
 &lt;/html&gt;
 </description>
