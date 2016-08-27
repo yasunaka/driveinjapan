@@ -2,26 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
-    <lastmod>2016-08-24T12:21:58+09:00</lastmod>
+    <loc>http://www.driveinjapan.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/guide/</loc>
-    <lastmod>2016-08-24T12:21:58+09:00</lastmod>
+    <loc>http://www.driveinjapan.com/guide/</loc>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/ko/</loc>
+    <loc>http://www.driveinjapan.com/ko/</loc>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/zh-cn/</loc>
+    <loc>http://www.driveinjapan.com/zh-cn/</loc>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/zh-tw/</loc>
+    <loc>http://www.driveinjapan.com/zh-tw/</loc>
   </url>
   
 </urlset>

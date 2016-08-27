@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kos on My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/ko/</link>
-    <description>Recent content in Kos on My New Hugo Site</description>
+    <title>Kos on Drive in Japan</title>
+    <link>http://www.driveinjapan.com/ko/</link>
+    <description>Recent content in Kos on Drive in Japan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/ko/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="http://www.driveinjapan.com/ko/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://replace-this-with-your-hugo-site.com/ko/</link>
+      <link>http://www.driveinjapan.com/ko/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/ko/</guid>
+      <guid>http://www.driveinjapan.com/ko/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;ko&#34;&gt;
   &lt;head&gt;
@@ -21,22 +21,22 @@
     &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0, minimum-scale=1.0&#34;&gt;
     &lt;title&gt;&#34;에 관해서&#34;&lt;/title&gt;
     &lt;link rel=&#34;stylesheet&#34; href=&#34;https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css&#34;&gt;
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;http://replace-this-with-your-hugo-site.com/css/reset.css&#34;&gt;
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;http://replace-this-with-your-hugo-site.com/css/style.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.driveinjapan.com/css/reset.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.driveinjapan.com/css/style.css&#34;&gt;
   &lt;/head&gt;
 	&lt;body&gt;
-		&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#about-us&#34;&gt;&lt;div class=&#34;fixed-contact left fa fa-phone&#34;&gt;&lt;/div&gt;&lt;/a&gt;
-		&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#contact-us&#34;&gt;&lt;div class=&#34;fixed-contact fa fa-envelope&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;a href=&#34;http://www.driveinjapan.com/ko/#about-us&#34;&gt;&lt;div class=&#34;fixed-contact left fa fa-phone&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+		&lt;a href=&#34;http://www.driveinjapan.com/ko/#contact-us&#34;&gt;&lt;div class=&#34;fixed-contact fa fa-envelope&#34;&gt;&lt;/div&gt;&lt;/a&gt;
 		&lt;div class=&#34;header&#34;&gt;
-			&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/&#34;&gt;&lt;img class=&#34;logo logo-img&#34; src=&#34;http://replace-this-with-your-hugo-site.com/images/logo.jpg&#34;&gt;&lt;img class=&#34;logo logo-img right&#34; src=&#34;http://replace-this-with-your-hugo-site.com/images/jpc-logo-left.jpg&#34;&gt;&lt;/a&gt;
-			&lt;a class=&#34;lang-container&#34; href=&#34;http://replace-this-with-your-hugo-site.com/&#34;&gt;English&lt;/a&gt;
+			&lt;a href=&#34;http://www.driveinjapan.com/ko/&#34;&gt;&lt;img class=&#34;logo logo-img&#34; src=&#34;http://www.driveinjapan.com/images/logo.jpg&#34;&gt;&lt;img class=&#34;logo logo-img right&#34; src=&#34;http://www.driveinjapan.com/images/jpc-logo-left.jpg&#34;&gt;&lt;/a&gt;
+			&lt;a class=&#34;lang-container&#34; href=&#34;http://www.driveinjapan.com/&#34;&gt;English&lt;/a&gt;
 			&lt;div id=&#34;chinese&#34; class=&#34;lang-container right&#34;&gt; 中文
 				&lt;div class=&#34;lang-box&#34;&gt;
-					&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/zh-cn/&#34;&gt;&lt;div class=&#34;chinese&#34;&gt;简体字&lt;br&gt;&lt;/div&gt;&lt;/a&gt;
-					&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/zh-tw/&#34;&gt;&lt;div class=&#34;chinese down&#34;&gt;繁體字&lt;/div&gt;&lt;/a&gt;
+					&lt;a href=&#34;http://www.driveinjapan.com/zh-cn/&#34;&gt;&lt;div class=&#34;chinese&#34;&gt;简体字&lt;br&gt;&lt;/div&gt;&lt;/a&gt;
+					&lt;a href=&#34;http://www.driveinjapan.com/zh-tw/&#34;&gt;&lt;div class=&#34;chinese down&#34;&gt;繁體字&lt;/div&gt;&lt;/a&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
-			&lt;a class=&#34;lang-container right-sec&#34; href=&#34;http://replace-this-with-your-hugo-site.com/ko/&#34;&gt;한국어&lt;/a&gt;
+			&lt;a class=&#34;lang-container right-sec&#34; href=&#34;http://www.driveinjapan.com/ko/&#34;&gt;한국어&lt;/a&gt;
 			&lt;div class=&#34;header-contact&#34;&gt;
 				&lt;i class=&#34;contact-icon fa fa-phone&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 				&lt;p class=&#34;contact-text&#34;&gt;03-5245-7731&lt;/p&gt;
@@ -44,20 +44,20 @@
 			&lt;div class=&#34;nav-toggle&#34;&gt;&lt;/div&gt;
 			&lt;div class=&#34;nav-wrapper&#34;&gt;
 				&lt;div class=&#34;global-nav&#34;&gt;
-					&lt;a class=&#34;first&#34; href=&#34;http://replace-this-with-your-hugo-site.com/ko/#&#34;&gt;HOME&lt;/a&gt;
-          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#driveinjapan&#34;&gt;Drive in Japan&lt;/a&gt;
-          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#procedure&#34;&gt;HOW TO START&lt;/a&gt;
-          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#FAQ&#34;&gt;FAQ&lt;/a&gt;
-          &lt;a class=&#34;last&#34; href=&#34;http://replace-this-with-your-hugo-site.com/ko/#about-us&#34;&gt;ABOUT US&lt;/a&gt;
+					&lt;a class=&#34;first&#34; href=&#34;http://www.driveinjapan.com/ko/#&#34;&gt;HOME&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/ko/#driveinjapan&#34;&gt;Drive in Japan&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/ko/#procedure&#34;&gt;HOW TO START&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/ko/#FAQ&#34;&gt;FAQ&lt;/a&gt;
+          &lt;a class=&#34;last&#34; href=&#34;http://www.driveinjapan.com/ko/#about-us&#34;&gt;ABOUT US&lt;/a&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;global-nav-for-cellphone&#34;&gt;
-          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#&#34;&gt;HOME&lt;/a&gt;
-          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#driveinjapan&#34;&gt;Drive in Japan&lt;/a&gt;
-          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#procedure&#34;&gt;HOW TO START&lt;/a&gt;
-          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#FAQ&#34;&gt;FAQ&lt;/a&gt;
-          &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/ko/#about-us&#34;&gt;ABOUT US&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/ko/#&#34;&gt;HOME&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/ko/#driveinjapan&#34;&gt;Drive in Japan&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/ko/#procedure&#34;&gt;HOW TO START&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/ko/#FAQ&#34;&gt;FAQ&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/ko/#about-us&#34;&gt;ABOUT US&lt;/a&gt;
 				&lt;/div&gt; 
-				&lt;img id=&#34;top-img&#34; class=&#34;image&#34; src=&#34;http://replace-this-with-your-hugo-site.com/images/middle-pic1.png&#34;&gt;
+				&lt;img id=&#34;top-img&#34; class=&#34;image&#34; src=&#34;http://www.driveinjapan.com/images/middle-pic1.png&#34;&gt;
         &lt;div id=&#34;top-img-sentence&#34; class=&#34;img-sentence first&#34;&gt;Have your own car,&lt;br&gt;
 				  &lt;p style=&#34;margin-left:20px&#34;&gt;and drive it in Japan.&lt;/p&gt;
         &lt;/div&gt;
@@ -87,7 +87,7 @@
 			&lt;div class=&#34;sentence&#34;&gt;옥션은 여라장소가 있지만 한 장소 만으로 15,000대의 자동차가 하루에 거래가 되고 있습니다. 한마디로 고객님이 생각하시는 예산과 희망에 맟춰 대리 구매를 해드릴수 있습니다.&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
-    &lt;img class=&#34;image middle&#34; src=&#34;http://replace-this-with-your-hugo-site.com/images/middle-pic2.jpg&#34;&gt;
+    &lt;img class=&#34;image middle&#34; src=&#34;http://www.driveinjapan.com/images/middle-pic2.jpg&#34;&gt;
     &lt;div id=&#34;procedure&#34; class=&#34;procedure&#34;&gt;구매 방법
       &lt;div class=&#34;step&#34;&gt;
         &lt;div class=&#34;step-left&#34;&gt;
@@ -181,55 +181,55 @@
         &lt;div class=&#34;left first&#34;&gt;
 					&lt;div class=&#34;topic&#34;&gt;자동차 ~ 은 무엇인가&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-            &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#AAT&#34;&gt;자동차 검사증(車検)은 무엇인가&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;http://www.driveinjapan.com/guide/#AAT&#34;&gt;자동차 소득세 은 무엇인가&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;자동차 ~ 은 무엇인가&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-            &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#RF&#34;&gt;자동차소득세(自動車所得税) 은 무엇인가&lt;/a&gt;&lt;/div&gt;
+            &lt;a href=&#34;http://www.driveinjapan.com/guide/#RF&#34;&gt;자동차 소득세 은 무엇인가&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;자동차 ~ 은 무엇인가&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-            &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#CSI&#34;&gt;자동차 검사증(車検)은 무엇인가&lt;/a&gt;&lt;/div&gt;
+            &lt;a href=&#34;http://www.driveinjapan.com/guide/#CSI&#34;&gt;자동차 검사증 은 무엇인가&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;자동차 ~ 은 무엇인가&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-            &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#ATT&#34;&gt;자동차 중량세(自動車重量税) 은 무엇인가&lt;/a&gt;&lt;/div&gt;
+            &lt;a href=&#34;http://www.driveinjapan.com/guide/#ATT&#34;&gt;자동차 중량세 은 무엇인가&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;자동차 ~ 은 무엇인가&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#CALI&#34;&gt;자동차 정부 보험 (自賠責保険）은 무엇인가&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;http://www.driveinjapan.com/guide/#CALI&#34;&gt;자동차 정부 보험 은 무엇인가&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
-          &lt;div class=&#34;topic color&#34;&gt;HOW TO ~ ?&lt;/div&gt;
+          &lt;div class=&#34;topic color&#34;&gt;~  방법?&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-            &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#DL&#34;&gt;운전면허(運転免許) 취득 방법&lt;/a&gt;&lt;/div&gt;
+            &lt;a href=&#34;http://www.driveinjapan.com/guide/#DL&#34;&gt;운전면허 취득 방법&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
-          &lt;div class=&#34;topic color&#34;&gt;HOW TO ~ ?&lt;/div&gt;
+          &lt;div class=&#34;topic color&#34;&gt;~  방법?&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#howtopyAAT&#34;&gt;자동차세금(自動車税) 지불 방법 &lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;http://www.driveinjapan.com/guide/#howtopyAAT&#34;&gt;자동차세금 지불 방법 &lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
-          &lt;div class=&#34;topic color&#34;&gt;HOW TO ~ ?&lt;/div&gt;
+          &lt;div class=&#34;topic color&#34;&gt;~  방법?&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#PSC&#34;&gt;주차장증명(車庫証明) 취득방법&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;http://www.driveinjapan.com/guide/#PSC&#34;&gt;주차장증명 취득 방법&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
-          &lt;div class=&#34;topic color&#34;&gt;HOW TO ~ ?&lt;/div&gt;
+          &lt;div class=&#34;topic color&#34;&gt;~  방법?&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/guide/#HHC&#34;&gt;인감증명(判子証明) 취득방법&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;http://www.driveinjapan.com/guide/#HHC&#34;&gt;인감증명 취득 방법&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
@@ -274,8 +274,8 @@
       &lt;/div&gt;
     &lt;/div&gt;
 		&lt;script src=&#34;https://code.jquery.com/jquery-1.10.2.js&#34;&gt;&lt;/script&gt;
-		&lt;script type=&#34;text/javascript&#34; src=&#34;http://replace-this-with-your-hugo-site.com/js/submit.js&#34;&gt;&lt;/script&gt;
-		&lt;script type=&#34;text/javascript&#34; src=&#34;http://replace-this-with-your-hugo-site.com/js/accordion.js&#34;&gt;&lt;/script&gt;
+		&lt;script type=&#34;text/javascript&#34; src=&#34;http://www.driveinjapan.com/js/submit.js&#34;&gt;&lt;/script&gt;
+		&lt;script type=&#34;text/javascript&#34; src=&#34;http://www.driveinjapan.com/js/accordion.js&#34;&gt;&lt;/script&gt;
 	&lt;/body&gt;
 &lt;/html&gt;
 </description>
