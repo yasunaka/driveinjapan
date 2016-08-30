@@ -114,6 +114,7 @@ li {
 				border-bottom: 1px solid #a9a9a9;
 				display: block;
 				position: relative;
+				height: 42px;
 }
 .global-nav a {
 				line-height: 40px;
@@ -234,8 +235,8 @@ li {
 .explain .detail {
 				text-align: left;
 				font-size: 20px;
-				width: 60%;
-				max-width: 550px;
+				width: 70%;
+				max-width: 600px;
 				margin: 60px auto 10px auto;
 }
 .explain .detail-short {
@@ -327,6 +328,7 @@ li {
 				position: relative;
 				padding-bottom: 30px;
 				background-color: #ffc0c0;
+				border-radius: 50%;
 }
 .step-left {
 				display: block;
@@ -400,9 +402,6 @@ li {
 				padding-top: 5px;
 				text-align: center;
 }
-.FAQ a:hover .FAQ-shortbox {
-				opacity: 0.7;
-}
 .FAQ-shortbox {
 				max-width: 600px;
 				width: 44%;
@@ -414,6 +413,7 @@ li {
 				background-color: #ffc0c0;
 				padding-top: 20px;
 				color: #000;
+				border-radius: 50%;
 }
 .shortbox-title {
 				background-color: #e00000;
@@ -712,8 +712,8 @@ li {
 	}
 	.step-right {
 					position: relative;
-					width: 90%;
-					left: 5%;
+					width: 60%;
+					left: 20%;
 	}
 	.step-pic-register,
 	.step-pic-search {
@@ -731,8 +731,8 @@ li {
 	}
 	.FAQ-shortbox {
 					height: 270px;
-					width: 98%;
-					margin: 20px 1% 20px 1%;
+					width: 80%;
+					margin: 20px 10% 20px 10%;
 	}
 	.shortbox-title {
 					font-size: 18px;
