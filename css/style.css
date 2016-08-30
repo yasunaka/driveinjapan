@@ -32,10 +32,10 @@ li {
 .logo.logo-img {
 				margin-top: 10px;
 				margin-left: 8%;
-				width: 30%;
+				width: 35%;
 }
 .logo.logo-img.right {
-				width: 30%;
+				width: 20%;
 				margin-left: 0;
 }
 
@@ -178,8 +178,8 @@ li {
 .img-sentence {
 				position: absolute;
 				color: #fff;
-				top: 450px;
-				left: 39%;
+				top: 500px;
+				right: 10%;
 				font-size: 40px;
 				opacity: 1;
 }
@@ -312,12 +312,6 @@ li {
 .clearfix {
 				clear: both;
 }
-.wrapper .img {
-				width: 100%;
-				height: 200px;
-				background: url('/images/top-img.jpg') no-repeat;
-				background-size: 100% 100%;
-}
 .procedure {
 				font-size: 50px;
 				text-align: center;
@@ -359,11 +353,11 @@ li {
 				color: #ff0000;
 }
 .step-pic-register {
-				background: url('/images/register.jpg') no-repeat;
+				background: url('/images/register.png') no-repeat;
 				background-size: 100% 100%;
 }
 .step-pic-search {
-				background: url('/images/search.jpg') no-repeat;
+				background: url('/images/search.png') no-repeat;
 				background-size: 100% 100%;
 }
 .fa-check-circle {
@@ -481,8 +475,8 @@ li {
 				display: block;
 				margin-left: 10%;
 				width: 40%;
-				height: 20%;
-				background: url('/images/footer-logo.jpg') no-repeat;
+				height: 17%;
+				background: url('/images/footer-logo.png') no-repeat;
 				background-size: 100% 100%;
 }
 .footer-ele {
@@ -500,6 +494,9 @@ li {
 .footer-icon {
 				padding-top: 10px;
 			  padding-left: 60%;
+}
+.fa-map-marker {
+				margin-left: 2px;
 }
 .footer-detail {
 				text-align: left;
@@ -596,17 +593,18 @@ li {
 .display-block {
 				display: block;
 }
-
-@media (max-width: 640px){
-	.logo.logo-img,
+@media (max-width: 640px) {
+	.logo.logo-img {
+					width: 40%;
+	}
 	.logo.logo-img.right {
-					width: 35%;
+					width: 20%;
 	}
 	.nav-wrapper {
 					width: 100%;
 	}
 	.lang-container {
-					top: 53px;
+					top: 57px;
 					right: 40%;
 					font-size: 10px;
 	}
@@ -660,7 +658,6 @@ li {
 	}
 	.header .img-sentence {
 					top: 200px;
-					left: 45%;
 					font-size: 15px;
 	}
 	.contact-icon,
@@ -761,6 +758,9 @@ li {
 	.footer .about {
 					clear: left;
 					width: 100%;
+	}
+	.footer-logo {
+					height: 13%;
 	}
 	.footer .contact {
 					clear: left;
