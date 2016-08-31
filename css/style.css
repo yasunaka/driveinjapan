@@ -143,22 +143,6 @@ li {
 				background-color: #c00000;
 				color: #fff;
 }
-.nav-toggle {
-				position: absolute;
-				display: none;
-				top: 5px;
-				right: 30px;
-				width: 35px;
-				height: 35px;
-				background: url('/images/bg-header.gif') repeat-x;
-				background-color: rgba(0,0,0,0.6);
-				font-size: 35px;
-				color: #fff;
-}
-.nav-toggle:hover,
-.nav-toggle-sec:hover {
-				cursor: pointer;
-}
 .wrapper {
 				max-width: 1200px;
 				width: 100%;
@@ -645,8 +629,44 @@ li {
 					margin: 0;
 					text-align: center;
 	}
+	.nav-toggle-left,
+	.nav-toggle {
+					position: absolute;
+					top: 5px;
+					right: 25px;
+					width: 30px;
+					height: 30px;
+					display: none;
+	}
 	.nav-toggle {
 					display: block;
+	}
+	.nav-toggle .burger {
+					display: block;
+					height: 9px;
+					width: 30px;
+					border-top: 7px solid rgba(0,0,0,0.5);
+	}
+	.nav-toggle:hover,
+	.nav-toggle-left:hover {
+					cursor: pointer;
+	}
+	.cross-left,
+	.cross {
+        	position: absolute;
+					width: 30px;
+					height: 30px;
+					border-bottom: 4px solid #898989;
+	}
+	.cross {
+					transform: rotate(45deg);
+					top: -10px;
+					left: 10px;
+	}
+	.cross-left {
+					transform: rotate(135deg);
+					top: 8px;
+					left: 10px;
 	}
 	.header .image {
 					position: absolute;

@@ -9,6 +9,161 @@
     
     <item>
       <title></title>
+      <link>http://www.driveinjapan.com/zh-cn/guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.driveinjapan.com/zh-cn/guide/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;zh-cn&#34;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0, minimum-scale=1.0&#34;&gt;
+    &lt;title&gt;Foreigner&#39;s guide to owning a car in Japan&lt;/title&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.driveinjapan.com/css/reset.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.driveinjapan.com/css/style.css&#34;&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/#about-us&#34;&gt;&lt;div class=&#34;fixed-contact left fa fa-phone&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+    &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/#contact-us&#34;&gt;&lt;div class=&#34;fixed-contact fa fa-envelope&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+    &lt;div class=&#34;header&#34;&gt;
+      &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/&#34;&gt;&lt;img class=&#34;logo logo-img&#34; src=&#34;http://www.driveinjapan.com/images/logo.png&#34;&gt;&lt;img class=&#34;logo logo-img right&#34; src=&#34;http://www.driveinjapan.com/images/jpc-logo-right.png&#34;&gt;&lt;/a&gt;
+      &lt;a class=&#34;lang-container&#34; href=&#34;http://www.driveinjapan.com/guide/&#34;&gt;English&lt;/a&gt;
+      &lt;div id=&#34;chinese&#34; class=&#34;lang-container right&#34;&gt; 中文
+        &lt;div class=&#34;lang-box&#34;&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/&#34;&gt;&lt;div class=&#34;chinese&#34;&gt;简体字&lt;br&gt;&lt;/div&gt;&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/zh-tw/guide/&#34;&gt;&lt;div class=&#34;chinese down&#34;&gt;繁體字&lt;/div&gt;&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;a class=&#34;lang-container right-sec&#34; href=&#34;http://www.driveinjapan.com/ko/guide/&#34;&gt;한국어&lt;/a&gt;
+      &lt;div class=&#34;header-contact&#34;&gt;
+        &lt;i class=&#34;contact-icon fa fa-phone&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+        &lt;p class=&#34;contact-text&#34;&gt;03-5245-7731&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;nav-toggle&#34;&gt;
+				&lt;p class=&#34;burger&#34;&gt;&lt;/p&gt;
+				&lt;p class=&#34;burger&#34;&gt;&lt;/p&gt;
+				&lt;p class=&#34;burger&#34;&gt;&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;nav-toggle-left&#34;&gt;
+				&lt;div class=&#34;cross&#34;&gt;&lt;/div&gt;
+				&lt;div class=&#34;cross-left&#34;&gt;&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;nav-wrapper&#34;&gt;
+        &lt;div class=&#34;global-nav&#34;&gt;
+          &lt;a class=&#34;first&#34; href=&#34;http://www.driveinjapan.com/zh-cn/&#34;&gt;HOME&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#driveinjapan&#34;&gt;Drive in Japan&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#procedure&#34;&gt;HOW TO START&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#FAQ&#34;&gt;FAQ&lt;/a&gt;
+					&lt;a class=&#34;last&#34; href=&#34;http://www.driveinjapan.com/zh-cn/guide/#about-us&#34;&gt;ABOUT US&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;global-nav-for-cellphone&#34;&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/&#34;&gt;HOME&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#driveinjapan&#34;&gt;Drive in Japan&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#procedure&#34;&gt;HOW TO START&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#FAQ&#34;&gt;FAQ&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/#about-us&#34;&gt;ABOUT US&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;img id=&#34;top-img&#34; class=&#34;image&#34; src=&#34;http://www.driveinjapan.com/images/middle-pic1.png&#34;&gt;
+        &lt;div id=&#34;top-img-sentence&#34; class=&#34;img-sentence first&#34;&gt;Have your own car,&lt;br&gt;
+          &lt;p style=&#34;margin-left:20px&#34;&gt;and drive it in Japan.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;white&#34;&gt;&lt;/div&gt;
+		&lt;div&gt;
+			&lt;div id=&#34;FAQ&#34; class=&#34;FAQ&#34;&gt;
+				&lt;div class=&#34;guide-title&#34;&gt;TAXES AND FEES YOU HAVE TO PAY  WHEN YOU BUY A CAR&lt;/div&gt;
+				&lt;div id=&#34;AAT&#34; class=&#34;font20&#34;&gt;Automobile Acquisition Tax(自動車所得税)&lt;/div&gt;
+				&lt;div class=&#34;margin10&#34;&gt;Each Prefecture has a tax for the new developments and regular  maintenance of the roads’ system. Any brand new or less than  6 years old car will have to pay this tax if the cost of the car exceeds 500,000 Japanese yen. Vehicles under the value of 500,000 japanese yen will be exempted from the automobile acquisition tax. &lt;br&gt;&lt;br&gt;Tax rates - Private cars - 5%, Business vehicles  - 3%, Lightweight vehicles - 3%
+				&lt;/div&gt;
+				&lt;div id=&#34;RF&#34; class=&#34;font20&#34;&gt;Recycling Fees(リサイクル費用)&lt;/div&gt;
+				&lt;div class=&#34;margin10&#34;&gt;According to the Japan recycle low every vehicle must gain a recycle certificate to be used to shred and recycle a vehicle. This must be paid by the new owner before transferring the vehicle ownership to him/her. The cost depends on the volume of recycling/shredding pieces.
+				&lt;/div&gt;
+				&lt;div class=&#34;guide-title&#34;&gt;BIANNUAL TAXES(Basic rule)&lt;/div&gt;
+				&lt;div id=&#34;CSI&#34; class=&#34;font20&#34;&gt;Car Safety Inspection(車検 - Shaken)&lt;/div&gt;
+				&lt;div class=&#34;margin10&#34;&gt;This inspection defines whether the car has been maintained up to a standard which is safe enough to be driven on Japanese roads. If a vehicle has been modified in an unsafe way it will be given a red sticker which says ( 不正改造車-fuseikaizousha).Car inspection must be done once in every two years for used cars. In case of a brand new car first inspection is valid for 3 years from the day of purchase.The cost of the inspection differs from white plate cars to yellow plate cars.
+&lt;br&gt;&lt;br&gt;This can cost from 70,000 to 100,000 yen for a Yellow plate car and 120,000JPY upwards for a White plate car. 
+				&lt;/div&gt;
+				&lt;div id=&#34;ATT&#34; class=&#34;font20&#34;&gt;Automobile Tonnage Tax(自動車重量税 - Jidosha juryo-zei)&lt;/div&gt;
+				&lt;div class=&#34;margin10&#34;&gt;Payed with your car inspection (Shaken). The amount you pay varies according to the weight of the car. 
+				&lt;/div&gt;
+				&lt;div id=&#34;CALI&#34; class=&#34;font20&#34;&gt;Compulsory Automobile Liability Insurance(自賠責保険)&lt;/div&gt;
+				&lt;div class=&#34;margin10&#34;&gt;According to Japanese law every car owner must insure their cars. This is a basic insurance that gives the minimum coverage only to the victim during an accident. This will not cover any damages caused to you, your car or any other property in case of an accident. This can cost up to 30,000 yen.
+				&lt;/div&gt;
+				&lt;div class=&#34;guide-title&#34;&gt;ANNUAL TAXES&lt;/div&gt;
+				&lt;div class=&#34;font20&#34;&gt;Annual Automobile Tax(自動車税 - Jidosha -zei)&lt;/div&gt;
+				&lt;div class=&#34;margin10&#34;&gt;Charged annually by each prefecture for the cars which has 661 cc engine size or more. This tax varies according to the type of your car, engine size and usage. There are cases that disabled car owners can get a tax reduction.
+Only the white plate cars has to pay the automobile tax. For yellow plates cars  (軽自動車 -  kei-jidosha) the municipal council of each vehicle will charge a different tax call ( 軽自動車税- Kei-jidosha-zei). 
+				&lt;/div&gt;
+				&lt;div id=&#34;DL&#34; class=&#34;guide-title&#34;&gt;GETTING YOUR JAPANESE DRIVER&#39;S LICENSE&lt;/div&gt;
+				&lt;div class=&#34;margin10&#34; style=&#34;margin-top:50px;&#34;&gt;You can easily convert your foreign driver&#39;s license to Japanese drivers license. This process doesn’t cost you much. But you must prove that you have been  residing in the country of your foreign license more than 3 months since the date of your license issuance.&lt;br&gt;You need to go to your prefectural driver’s license center ( 運転免許センタ - unten menkyo senta) with the following documents ;
+					&lt;ul&gt;
+						&lt;li&gt;1. Official translation of your foreign driver’s license - You can get this from your nearest JAF translation office - Costs 3000 yen&lt;/li&gt;
+						&lt;li&gt;2. Foreign driver’s license&lt;/li&gt;
+						&lt;li&gt;3. Resident’s Card / Alien registration card&lt;/li&gt;
+						&lt;li&gt;4. Passport&lt;/li&gt;
+						&lt;li&gt;5. 3 cm x 2.4 cm Photo (taken within last 6 months)&lt;/li&gt;
+					&lt;/ul&gt;
+once you submit the correct documents you will be ask to sit for a eye test, written test and a practical test . To sit for the practical test you need to pass the eye test and written test first. Then you will be given a date for the driving test. After successful completion of the three tests you will be issued your new Japanese driver’s license.&lt;br&gt;&lt;br&gt;
+However Japan Automobile federation (JAF) has divided the countries into two categories where each has to follow different procedures when it comes to the tests.&lt;br&gt;&lt;br&gt;
+If your foreign  driver’s license is from one of the following countries You are not required to take the written or practical test to convert your foreign license to japanese license, you only has to pass the eye test and you will receive your new license on the same day. (Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Greece, Iceland, Ireland, Italy, Luxembourg, Monaco, Norway, Portugal, Slovenia, Spain, Sweden, Switzerland, The Netherlands, The United Kingdom, Australia, New Zealand, Canada, Taiwan, South Korea.)&lt;br&gt;&lt;br&gt;
+The normal procedure of getting a Japanese driver&#39;s license can be costly if you currently don&#39;t hold a driver’s license from a foreign country. You will be asked to register to a driving school and follow a driving course which will roughly cost you up to 300,000 yen.&lt;br&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+    &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;footer&#34;&gt;
+      &lt;div id=&#34;about-us&#34; class=&#34;about&#34;&gt;About Us &lt;br&gt;
+        &lt;a href=&#34;//www.jpctrade.com&#34; target=&#34;_blank&#34;&gt;&lt;div class=&#34;footer-logo&#34;&gt;&lt;/div&gt;&lt;/a&gt;
+        &lt;table&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;i class=&#34;footer-icon fa fa-clock-o&#34;&gt;&lt;/i&gt;&lt;/td&gt;
+            &lt;td class=&#34;footer-detail&#34;&gt;Mon. - Sat.  9 am - 6 pm (Japan time zone)&lt;br&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;i class=&#34;footer-icon fa fa-phone&#34;&gt;&lt;/i&gt;&lt;/td&gt;
+            &lt;td class=&#34;footer-detail&#34;&gt;+81-3-5245-7731&lt;br&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;i class=&#34;footer-icon fa fa-home&#34;&gt;&lt;/i&gt;&lt;/td&gt;
+            &lt;td class=&#34;footer-detail&#34;&gt;
+              &lt;a href=&#34;//www.jpctrade.com&#34; target=&#34;_blank&#34;&gt;JPC TRADE&lt;/a&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;&lt;i class=&#34;footer-icon fa fa-map-marker&#34;&gt;&lt;/i&gt;&lt;/td&gt;
+            &lt;td class=&#34;footer-detail&#34;&gt;8F, TK Monzennakacho Bldg, 1-2-13, Etchujima, Koto-ku, Tokyo, 135-0044 Japan&lt;br&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/table&gt;
+        &lt;iframe class=&#34;map&#34; src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d701.3617472692335!2d139.7921312556616!3d35.67008863834253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018896d15f16a35%3A0x85c044a9561028ed!2z44CSMTM1LTAwNDQg5p2x5Lqs6YO95rGf5p2x5Yy66LaK5Lit5bO277yR5LiB55uu77yS4oiS77yR77yT!5e0!3m2!1sja!2sjp!4v1441620573215&#34; width=&#34;100%&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+      &lt;/div&gt;
+      &lt;div id=&#34;contact-us&#34; class=&#34;contact&#34;&gt;Contact Us &lt;br&gt;
+        &lt;form id=&#34;sentmail&#34;&gt;
+          &lt;input type=&#34;hidden&#34; name=&#34;service&#34; value=&#34;Drive in Japan&#34;&gt;&lt;/input&gt;
+          &lt;input type=&#34;text&#34; placeholder=&#34;Name&#34; name=&#34;name&#34;&gt;&lt;/input&gt;
+          &lt;p id=&#34;name_error&#34; class=&#34;error_m&#34;&gt;&lt;/p&gt;
+          &lt;input type=&#34;text&#34; placeholder=&#34;Mail Address&#34; name=&#34;mailaddress&#34;&gt;&lt;/input&gt;
+          &lt;p id=&#34;mail_error&#34; class=&#34;error_m&#34;&gt;&lt;/p&gt;
+          &lt;textarea placeholder=&#34;Message&#34; cols=40 rows=10 name=&#34;message&#34; style=&#34;white-space:pre-wrap;&#34;&gt;&lt;/textarea&gt;
+          &lt;p id=&#34;message_error&#34; class=&#34;error_m&#34;&gt;&lt;/p&gt;
+          &lt;input class=&#34;submit-button&#34; type=&#34;submit&#34; value=&#34;Submit&#34;&gt;&lt;/input&gt;
+        &lt;/form&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;clearfix copyright&#34;&gt;Copyright &amp;copy; 2016 DRIVE IN JAPAN
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;script src=&#34;https://code.jquery.com/jquery-1.10.2.js&#34;&gt;&lt;/script&gt;
+    &lt;script type=&#34;text/javascript&#34; src=&#34;http://www.driveinjapan.com/js/submit.js&#34;&gt;&lt;/script&gt;
+    &lt;script type=&#34;text/javascript&#34; src=&#34;http://www.driveinjapan.com/js/accordion.js&#34;&gt;&lt;/script&gt;
+		&lt;script type=&#34;text/javascript&#34; src=&#34;http://www.driveinjapan.com/js/analytics.js&#34;&gt;&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://www.driveinjapan.com/zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -40,17 +195,25 @@
 				&lt;i class=&#34;contact-icon fa fa-phone&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 				&lt;p class=&#34;contact-text&#34;&gt;03-5245-7731&lt;/p&gt;
 			&lt;/div&gt;
-			&lt;div class=&#34;nav-toggle&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;nav-toggle&#34;&gt;
+				&lt;p class=&#34;burger&#34;&gt;&lt;/p&gt;
+				&lt;p class=&#34;burger&#34;&gt;&lt;/p&gt;
+				&lt;p class=&#34;burger&#34;&gt;&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;div class=&#34;nav-toggle-left&#34;&gt;
+				&lt;div class=&#34;cross&#34;&gt;&lt;/div&gt;
+				&lt;div class=&#34;cross-left&#34;&gt;&lt;/div&gt;
+			&lt;/div&gt;
 			&lt;div class=&#34;nav-wrapper&#34;&gt;
 				&lt;div class=&#34;global-nav&#34;&gt;
-					&lt;a class=&#34;first&#34; href=&#34;http://www.driveinjapan.com/zh-cn/#&#34;&gt;主页&lt;/a&gt;
+					&lt;a class=&#34;first&#34; href=&#34;http://www.driveinjapan.com/zh-cn/&#34;&gt;主页&lt;/a&gt;
           &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#driveinjapan&#34;&gt;驾驶在日本&lt;/a&gt;
           &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#procedure&#34;&gt;如何购买&lt;/a&gt;
           &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#FAQ&#34;&gt;问题集&lt;/a&gt;
           &lt;a class=&#34;last&#34; href=&#34;http://www.driveinjapan.com/zh-cn/#about-us&#34;&gt;关于我们&lt;/a&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;global-nav-for-cellphone&#34;&gt;
-          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#&#34;&gt;主页&lt;/a&gt;
+          &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/&#34;&gt;主页&lt;/a&gt;
           &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#driveinjapan&#34;&gt;驾驶在日本&lt;/a&gt;
           &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#procedure&#34;&gt;如何购买&lt;/a&gt;
           &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/#FAQ&#34;&gt;问题集&lt;/a&gt;
@@ -178,55 +341,55 @@
         &lt;div class=&#34;left first&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;什么是〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#AAT&#34;&gt;什么是汽车所得税？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/#AAT&#34;&gt;什么是汽车所得税？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;什么是〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-            &lt;a href=&#34;http://www.driveinjapan.com/guide/#RF&#34;&gt;什么是回收费用？&lt;/a&gt;&lt;/div&gt;
+            &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/#RF&#34;&gt;什么是回收费用？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;什么是〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#CSI&#34;&gt;什么是车检？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/#CSI&#34;&gt;什么是车检？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;什么是〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#ATT&#34;&gt;什么是汽车重量税？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/#ATT&#34;&gt;什么是汽车重量税？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic&#34;&gt;什么是〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#CALI&#34;&gt;什么是强制汽车责任保险？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/#CALI&#34;&gt;什么是强制汽车责任保险？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic color&#34;&gt;如何〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#DL&#34;&gt;如何去取得驾驶证？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/#DL&#34;&gt;如何去取得驾驶证？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic color&#34;&gt;如何〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-            &lt;a href=&#34;http://www.driveinjapan.com/guide/#howtopyAAT&#34;&gt;How to pay Annual Automobile Tax(自動車税)?&lt;/a&gt;&lt;/div&gt;
+            &lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/#howtopyAAT&#34;&gt;How to pay Annual Automobile Tax(自動車税)?&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
           &lt;div class=&#34;topic color&#34;&gt;如何〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#PSC&#34;&gt;如何去办理车库证明？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/#PSC&#34;&gt;如何去办理车库证明？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
         &lt;div class=&#34;left&#34;&gt;
 					&lt;div class=&#34;topic color&#34;&gt;如何〜？&lt;/div&gt;
           &lt;div class=&#34;detail&#34;&gt;
-						&lt;a href=&#34;http://www.driveinjapan.com/guide/#HHC&#34;&gt;如何去办理印章？&lt;/a&gt;&lt;/div&gt;
+						&lt;a href=&#34;http://www.driveinjapan.com/zh-cn/guide/#HHC&#34;&gt;如何去办理印章？&lt;/a&gt;&lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
