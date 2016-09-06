@@ -12,35 +12,35 @@ explainSentence3: 每天二手車的拍賣量超過15000台，您一定能找到
 stepTitle: 如何購買愛車
 step1: 
 step1Title: 註冊
-step1Title: 注册
-step1DetailFirstHalf: 
-step1DetailLastHalf: 
+step1Title: 
+step1DetailFirstHalf: 首先請您註冊我們的網頁賬號 JPC TRADE CO. LTD. 在填寫有關信息時。
+step1DetailLastHalf: 在填寫有關信息時請您註明駕駛在日本。我們將在最短的時間內給予您回复。如果您在購買車輛中遇到什麼疑問，需要我們提供幫助時，請隨時聯繫我們的客服，我們隨時等待您的聯繫。
 step2: 
-step2Title: 
-step2Detail: 
+step2Title: 搜索
+step2Detail: 需要預付訂金（100%退還），才可以參加拍賣活動。您可以在拍賣交易系統上輸入更加詳細的汽車信息來搜索您喜愛的車。比如品牌，顏色，等信息。
 step3: 
-step3Title: 
-step3Detail: 
+step3Title: 競價
+step3Detail: 當您找到符合自己需求車輛您就可以把價格。我們就會開始競價直到您的預算。
 step4: 
-step4Title: 
-step4Detail: 
-FAQTitle: 
-shortboxTitle1: 
-shortbox1Item1: 
-shortbox1Item2: 
-shortbox1Item3: 
-shortboxTitle2: 
-shortbox2Item1: 
-shortbox2Item2: 
-shortbox2Item3: 
-longboxTitle1: 
-longboxTitle2: 
-longboxItem1: 
-longboxItem2: 
-longboxItem3: 
-longboxItem4: 
-longboxItem5: 
-longboxItem6: 
-longboxItem7: 
-longboxItem8: 
-longboxItem9: 
+step4Title: 付款
+step4Detail: 中標之後，我們會代您付款然後再將餘額發票發送給您。收到付款之後，我們將提供車輛給您或者安排您來撿起。
+FAQTitle: 外國人在日本擁有汽車指南
+shortboxTitle1: 所需資料
+shortbox1Item1: 車庫證明
+shortbox1Item2: 印章
+shortbox1Item3: 印章證明
+shortboxTitle2: 所需繳費
+shortbox2Item1: 汽車稅
+shortbox2Item2: 回收費用
+shortbox2Item3: 強制汽車責任保險（車險）
+longboxTitle1: 什麼是〜？
+longboxTitle2: 如何〜？
+longboxItem1: 什麼是汽車所得稅？
+longboxItem2: 什麼是回收費用？
+longboxItem3: 什麼是車檢？
+longboxItem4: 什麼是汽車重量稅？
+longboxItem5: 什麼是強制汽車責任保險？
+longboxItem6: 如何去取得駕駛證？
+longboxItem7: 如何去付全年汽車稅？
+longboxItem8: 如何去辦理車庫證明？
+longboxItem9: 如何去辦理印章？
