@@ -1,6 +1,8 @@
-title: 什麼是 "Drive in Japan"?
+title: 什麼是 Drive in Japan?
 language: /zh-tw
-topTitle: 什麼是 "Drive in Japan"?
+topSent1: 簡單購買汽車
+topSent2: 直接從日本拍賣場購車
+topTitle: 什麼是
 topSubTitle: Drive in Japan 提供您安全購買愛車之道
 topDetail: 您可以在日本各大拍賣行選擇您喜愛的車，不僅僅給予您一個廣泛的選擇範圍，而且滿足您的需求與預算。
 explainTitle1: 多國語言服務
@@ -12,9 +14,10 @@ explainSentence3: 每天二手車的拍賣量超過15000台，您一定能找到
 stepTitle: 如何購買愛車
 step1: 
 step1Title: 註冊
-step1Title: 
-step1DetailFirstHalf: 首先請您註冊我們的網頁賬號 JPC TRADE CO. LTD. 在填寫有關信息時。
-step1DetailLastHalf: 在填寫有關信息時請您註明駕駛在日本。我們將在最短的時間內給予您回复。如果您在購買車輛中遇到什麼疑問，需要我們提供幫助時，請隨時聯繫我們的客服，我們隨時等待您的聯繫。
+step1Detail1FirstHalf: 首先請您註冊我們的網頁賬號
+step1Detail1LastHalf: 在填寫有關信息時請您註明駕駛在日本。
+step1Detail2: 我們將在最短的時間內給予您回复。
+step1Detail3: 如果您在購買車輛中遇到什麼疑問，需要我們提供幫助時，請隨時聯繫我們的客服，我們隨時等待您的聯繫。
 step2: 
 step2Title: 搜索
 step2Detail: 需要預付訂金（100%退還），才可以參加拍賣活動。您可以在拍賣交易系統上輸入更加詳細的汽車信息來搜索您喜愛的車。比如品牌，顏色，等信息。
@@ -33,8 +36,6 @@ shortboxTitle2: 所需繳費
 shortbox2Item1: 汽車稅
 shortbox2Item2: 回收費用
 shortbox2Item3: 強制汽車責任保險（車險）
-longboxTitle1: 什麼是〜？
-longboxTitle2: 如何〜？
 longboxItem1: 什麼是汽車所得稅？
 longboxItem2: 什麼是回收費用？
 longboxItem3: 什麼是車檢？

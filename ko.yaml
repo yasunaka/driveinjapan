@@ -1,6 +1,8 @@
-title: Drive in Japa
+title: Drive in Japan 에 붙어
 language: /ko
-topTitle: Drive in Japan
+topSent1: 자동차 구매
+topSent2: 일본 중고차 옥션 구매대행서비스
+topTitle: 에 붙어
 topSubTitle: 고객님이 생각하시는 예산에 맞춰 원하시는 자동차를 옥션에서 대리 구매해 드립니다.
 topDetail: 물론 서류 작업도 대행으로 해 드립니다.
 explainTitle1: 다국어 대응
@@ -12,8 +14,10 @@ explainSentence3: 옥션은 여라장소가 있지만 한 장소 만으로 15,00
 stepTitle: 구매 방법
 step1: STEP1
 step1Title: 회원등록
-step1DetailFirstHalf: 먼저
-step1DetailLastHalf: 에 회원 등록을 해주시기 바랍니다. 원하시는 자동차를 적어주시면 빠른 시간 내에 연락 드리겠습니다. 혹시나 궁금한 점이 있으시면 언제든지 연락 주세요.
+step1Detaili1FirstHalf: 먼저
+step1Detail1LastHalf: 에 회원 등록을 해주시기 바랍니다.
+step1Detail2: 원하시는 자동차를 적어주시면 빠른 시간 내에 연락 드리겠습니다.
+step1Detail3: 혹시나 궁금한 점이 있으시면 언제든지 연락 주세요.
 step2: STEP2
 step2Title: 자동차 검색
 step2Detail: 자동차를 입찰하기 위해 보증금(100%환불가능) 을 지불해 주시기 바랍니다. 150만엔 까지는 보증금을 10만엔. 150만엔 부터 400만엔 까지는 자동차 가격의 20%를 보증금으로 받습니다.
@@ -32,8 +36,6 @@ shortboxTitle2: 지불 사항
 shortbox2Item1: 자동차세
 shortbox2Item2: 리사이클 비용 (재활용 요금)
 shortbox2Item3: 정부 보험 (自賠責保険)
-longboxTitle1: 자동차 ~ 은 무엇인가
-longboxTitle2: ~ 방법?
 longboxItem1: 자동차 소득세 은 무엇인가
 longboxItem2: 자동차 소득세 은 무엇인가
 longboxItem3: 자동차 검사증 은 무엇인가
