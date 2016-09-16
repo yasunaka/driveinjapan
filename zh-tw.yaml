@@ -27,15 +27,18 @@ step3Detail: 當您找到符合自己需求車輛您就可以把價格。我們�
 step4: 
 step4Title: 付款
 step4Detail: 中標之後，我們會代您付款然後再將餘額發票發送給您。收到付款之後，我們將提供車輛給您或者安排您來撿起。
-FAQTitle: 外國人在日本擁有汽車指南
+GUIDETitle: 外國人在日本擁有汽車指南
+FAQTitle:
 shortboxTitle1: 所需資料
 shortbox1Item1: 車庫證明
 shortbox1Item2: 印章
 shortbox1Item3: 印章證明
+shortbox1Item4: 印章證明
 shortboxTitle2: 所需繳費
 shortbox2Item1: 汽車稅
 shortbox2Item2: 回收費用
 shortbox2Item3: 強制汽車責任保險（車險）
+shortbox2Item4: 強制汽車責任保險（車險）
 longboxItem1: 什麼是汽車所得稅？
 longboxItem2: 什麼是回收費用？
 longboxItem3: 什麼是車檢？

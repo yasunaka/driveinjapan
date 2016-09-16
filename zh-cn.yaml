@@ -27,15 +27,18 @@ step3Detail: 当您找到符合自己需求车辆您就可以把价格。我们�
 step4: 四
 step4Title: 付款
 step4Detail: 中标之后，我们会代您付款然后再将余额发票发送给您。收到付款之后，我们将提供车辆给您或者安排您来捡起。
-FAQTitle: 外国人在日本拥有汽车指南
+GUIDETitle: 外国人在日本拥有汽车指南
+FAQTitle:
 shortboxTitle1: 所需资料
 shortbox1Item1: 车库证明
 shortbox1Item2: 印章
 shortbox1Item3: 印章证明
+shortbox1Item4: 印章证明
 shortboxTitle2: 所需缴费
 shortbox2Item1: 汽车税
 shortbox2Item2: 回收费用
 shortbox2Item3: 强制汽车责任保险（车险）
+shortbox2Item4: 强制汽车责任保险（车险）
 longboxItem1: 什么是汽车所得税？
 longboxItem2: 什么是回收费用？
 longboxItem3: 什么是车检？
