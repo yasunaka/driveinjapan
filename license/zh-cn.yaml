@@ -1,51 +1,53 @@
-title: Japan Driving License
-language: /zh-cn
-cont1_1: You can simply CONVERT your driving license to Japanese Driving License if your foreign  driver’s license is from one of the following countries and can prove that you have been there for more than 3  months since the date of your license issuance.
-cont1_2: All you need is just an EYE TEST at your prefectural driver’s license center.
-tableCountry1: Australia
-tableCountry2: Austria
-tableCountry3: Belgium
-tableCountry4: Canada
-tableCountry5: Czech Republic
-tableCountry6: Denmark
-tableCountry7: Finland
-tableCountry8: France
-tableCountry9: Germany
-tableCountry10: Greece
-tableCountry11: Iceland
-tableCountry12: Ireland
-tableCountry13: Italy
-tableCountry14: Luxembourg
-tableCountry15: New Zealand
-tableCountry16: Norway
-tableCountry17: Portugal
-tableCountry18: Slovenia
-tableCountry19: South Korea
-tableCountry20: Spain
-tableCountry21: Sweden
-tableCountry22: Switzerland
-tableCountry23: Taiwan
-tableCountry24: The Netherlands
-tableCountry25: UK
-cont2: Please bring with you the below documents
-li1: Official translation of your foreign driver’s license.
-li1_1_1: Application Form
-li1_1_2: (available in English, Chinese, Taiwanese Chinese, French and Vietnamese)
-li1_2_1: Go to your nearest JAF translation office
-li1_2_2: (Cost about JPY3,000)
-li1_2_3: or
-li1_3_1: from your embassy
-li1_3_2: List of Embassies and Consulates
-li1_3_3: (in cases whereby JAF cannot issues the official translation)
-li2_1: Foreign driver’s license (must be valid, check your expiry date)
-li2_2: original
-li3_1: Resident’s Card / Alien registration card
-li3_2: 1 copy
-li4_1: Passport
-li4_2: to show you had stayed in the country where you obtained the license for more than 3 months or more
-li5_1: 3 cm x 2.4 cm Photo (taken within last 6 months)
-li5_2: (must be taken from the photos machine box or photo shops. Taken personally by smart phone or digital camera cannot be accepted)
-cont3_1: NOTE
-cont3_2: JAF does not offer translation for International Driving License
-cont3_3: Process period
-cont3_4: most of the time will be same day however there are times it will take up to 2 weeks.
+title: 日本驾驶证
+language: /zh-cn 
+topSent1: 简单购买汽车
+topSent2: 直接从日本汽车怕买场购车
+cont1_1: 您可以很容易的跟换您的国外驾驶证到日本驾驶证，您必须证明您已经居住在您持有的国外驾驶证的国家超过3个月以上，根据您的驾驶证发放日期开始。
+cont1_2: 如果您持有的国外驾驶证是下列国家的驾驶证的话，您只需要眼睛测试就能得到新的日本驾驶证。
+tableCountry1: 澳大利亚
+tableCountry2: 奥地利
+tableCountry3: 比利时
+tableCountry4: 加拿大
+tableCountry5: 捷克共和国
+tableCountry6: 丹麦
+tableCountry7: 芬兰
+tableCountry8: 法国
+tableCountry9: 德国
+tableCountry10: 希腊
+tableCountry11: 冰岛
+tableCountry12: 爱尔兰
+tableCountry13: 意大利
+tableCountry14: 卢森堡
+tableCountry15: 纽西兰
+tableCountry16: 挪威
+tableCountry17: 葡萄牙
+tableCountry18: 斯洛文尼亚
+tableCountry19: 韩国
+tableCountry20: 西班牙
+tableCountry21: 瑞典
+tableCountry22: 瑞士
+tableCountry23: 台湾
+tableCountry24: 荷兰
+tableCountry25: 英国
+cont2: 请携带以下文件
+li1: 您的外国驾驶执照的官方翻译
+li1_1_1: 申请表格
+li1_1_2: （英语，中国语，中国台湾语，法文和越南语）
+li1_2_1: 去您离最近JAF翻译室
+li1_2_2: (需要大楷 3000日币)
+li1_2_3: 或
+li1_3_1: 您的大使馆
+li1_3_2: 大使馆和领事馆的名单
+li1_3_3: （在某某情况下JAF无法发提供官方译名）
+li2_1: 外国驾驶执照（必须是有效的，请检查您的到期日）
+li2_2: 原版
+li3_1: 居住卡/外国人登录证
+li3_2: 1份
+li4_1: 护照
+li4_2: 证明在您获得的驾驶证超过3个月以上的国家
+li5_1: 3厘米×2.4厘米的照片（6個月之內的相片）
+li5_2: （必须从照片机箱或照片商店采取.通过手机或数码相机拍摄是不能接受）
+cont3_1: 注意
+cont3_2: JAF不会为国际驾驶照提供翻译
+cont3_3: 过程期间
+cont3_4: 大部分时间将是当天但是有时候它会需要2周。
