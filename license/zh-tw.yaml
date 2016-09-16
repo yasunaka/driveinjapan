@@ -1,5 +1,5 @@
 title: Japan Driving License
-language: /zh-tw 
+language: /zh-tw
 cont1_1: You can simply CONVERT your driving license to Japanese Driving License if your foreign  driver’s license is from one of the following countries and can prove that you have been there for more than 3  months since the date of your license issuance.
 cont1_2: All you need is just an EYE TEST at your prefectural driver’s license center.
 tableCountry1: Australia
@@ -29,12 +29,12 @@ tableCountry24: The Netherlands
 tableCountry25: UK
 cont2: Please bring with you the below documents
 li1: Official translation of your foreign driver’s license.
-li1_1_1: Application Form 
-li1_1_1: (available in English, Chinese, Taiwanese Chinese, French and Vietnamese)
-li1_2_1: Go to your nearest JAF translation office 
+li1_1_1: Application Form
+li1_1_2: (available in English, Chinese, Taiwanese Chinese, French and Vietnamese)
+li1_2_1: Go to your nearest JAF translation office
 li1_2_2: (Cost about JPY3,000)
 li1_2_3: or
-li1_3_1: from your embassy 
+li1_3_1: from your embassy
 li1_3_2: List of Embassies and Consulates
 li1_3_3: (in cases whereby JAF cannot issues the official translation)
 li2_1: Foreign driver’s license (must be valid, check your expiry date)
