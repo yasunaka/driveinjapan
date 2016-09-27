@@ -1,0 +1,58 @@
+title: GRADING SHOWN ON AUCTION SHEET
+language: 
+ref: /blog/article2/
+table1Up1: Grade
+table1Up2: Description
+table1Cont1_1: The vehicle is less than 12 months old from the first registration date - travelled less than 10,000 km.
+table1Cont1_2: The vehicle is in immaculate as new condition.
+table1Cont2_1: The vehicle is less than 36 months old from the first registration date and travelled less than 30,000 km.
+table1Cont2_2: The vehicle is in immaculate as new condition.
+table1Cont3_1: The vehicle has travelled less than 50,000 km.
+table1Cont3_2: The exterior may have some minor scratches and marks.
+table1Cont4_1: The vehicle has travelled less than 100,000 km.
+table1Cont4_2: The exterior generally has more minor scratches and marks than grade 5.
+table1Cont5_1: The vehicle has travelled less than 150,000 km.
+table1Cont5_2: The exterior has some scratches/scrapes and possibly minor dents.
+table1Cont6_1: The exterior has some noticeable scratches/scrapes and/or dents, may contain rust or corrosion. 
+table1Cont6_2: This grade will require some repairs.
+table1Cont7_1: The exterior has more noticeable large scratches/scrapes, paint blemishes,and/or large dents. 
+table1Cont7_2: This grade will generally require more repairs than a 3.5 grade. 
+table2Up1: Grade
+table2Up2: Description-Interior
+table2Cont1: The vehicle interior is as new
+table2Cont2: The vehicle interior is in excellent condition, may contain minor wear marks, may require light cleaning.
+table2Cont3: The vehicle interior is in average condition and may contain cigarette burns, torn upholstery, screw holes, cracked dash, glue Interior will require cleaning.
+table2Cont4: The vehicle interior is in poor condition, worse than 3 and will require repair and heavy cleaning. Interior may smell.
+table2Cont5: The vehicle interior is in very poor condition and will require extensive repair. Interior may smell.
+table3Up1: Grade
+table3Up2: Description-Exterior
+table3Cont1: Scratch or Crack
+table3Cont2: A1 - scratch 2-3 cm
+table3Cont3: A2 - scratch < 10 cm
+table3Cont4: A3 - scratch > 10 cm
+table3Cont5: Same as U
+table3Cont6: Corrosion (bad rust)
+table3Cont7: Rust
+table3Cont8: Dent
+table3Cont9: U1 - Dimple
+table3Cont10: Scratch and Dent; again can be combined with numbers
+table3Cont11: Repainted as good as new condition
+table3Cont12: W2 - Repaired & repainted in good condition
+table3Cont13: W3 - Repaired but the surface finish is bad
+table3Cont14: Crack
+table3Cont15: Y1 - crack 2-5 cm
+table3Cont16: Y2 - crack < 10cm
+table3Cont17: Y3 - crack > 10cm
+table3Cont18: Part exchange required
+table3Cont19: XX - Part exchange history
+table4Up1: Abbreviation
+table4Up2: Description
+table4Cont1: Air conditioner / Climate control air conditioner
+table4Cont2: Automatic transmission / Column automatic transmission
+table4Cont3: 5 - sped manual transmission / 6 - speed manual transmission
+table4Cont4: Power steering / Power windows
+table4Cont5: Sunroof
+table4Cont6: Television Navigator
+table4Cont7: Leather Interior
+table4Cont8: Airbags
+table4Cont9: Genuine alloy wheels / Alloy wheels
