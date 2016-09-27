@@ -1,5 +1,6 @@
 title: Drive in Japan 에 붙어
 language: /ko
+ref: /
 topSent1: 자동차 구매
 topSent2: 일본 중고차 옥션 구매대행서비스
 topTitle: 에 붙어
@@ -7,38 +8,33 @@ topSubTitle: 고객님이 생각하시는 예산에 맞춰 원하시는 자동�
 topDetail: 물론 서류 작업도 대행으로 해 드립니다.
 explainTitle1: 다국어 대응
 explainSentence1: 영어,중국어,한국어 등 여러나라의 언어로 대응 해 드립니다.
-explainTitle2: 옥션에서 대리 구매
-explainSentence2: 가지고 계신 스마트폰,핸드폰 또는 컴퓨터에서 희망사니느 자동차와 옥션에 대한 정보를 확인할수 있습니다. 혹시나 필요하신다면 자동차에 관한 자세한 정보를 번역하여 설명해 드리겠습니다.
-explainTitle3: 자동차 선택
-explainSentence3: 옥션은 여라장소가 있지만 한 장소 만으로 15,000대의 자동차가 하루에 거래가 되고 있습니다. 한마디로 고객님이 생각하시는 예산과 희망에 맟춰 대리 구매를 해드릴수 있습니다.
-stepTitle: 구매 방법
-step1: STEP1
-step1Title: 회원등록
-step1Detaili1FirstHalf: 먼저
-step1Detail1LastHalf: 에 회원 등록을 해주시기 바랍니다.
-step1Detail2: 원하시는 자동차를 적어주시면 빠른 시간 내에 연락 드리겠습니다.
-step1Detail3: 혹시나 궁금한 점이 있으시면 언제든지 연락 주세요.
-step2: STEP2
-step2Title: 자동차 검색
-step2Detail: 자동차를 입찰하기 위해 보증금(100%환불가능) 을 지불해 주시기 바랍니다. 150만엔 까지는 보증금을 10만엔. 150만엔 부터 400만엔 까지는 자동차 가격의 20%를 보증금으로 받습니다.
-step3: STEP3
-step3Title: 입찰
-step3Detail: 원하시는 자동차에 대한 정보를 입수하시고 자동차를 정하셨다면 옥션에서 얼마만큼의 금액을 입찰하실건지 알려주시기 바랍니다. (정해진 금액을 알려주시면 옥션에서 정해주신 금액까지 입찰을 시작하겠습니다.)
-step4: STEP4
-step4Title: Payment
-step4Detail: 성공적으로 정해주신 금액으로 낙찰이되면 저희 쪽에서 고객님께 청구서를 보내 드리겠습니다. 청구서에 적혀져 있는 금액을 입금해주시면 고객님이 계신곳까지 배송을 하거나 지정된 장소로 배송을 해 드리겠습니다.
-GUIDETitle: 일본에서 자동차를 소유하기 위해서 필요한 지식
-FAQTitle:
-shortboxTitle1: 기본 필요 사항
-shortbox1Item1: 주차장 증명서
-shortbox1Item2: 인감
-shortbox1Item3: 인감증명서
-shortbox1Item4: 인감증명서
-shortboxTitle2: 지불 사항
-shortbox2Item1: 자동차세
-shortbox2Item2: 리사이클 비용 (재활용 요금)
-shortbox2Item3: 정부 보험 (自賠責保険)
-shortbox2Item4: 정부 보험 (自賠責保険)
+explainTitle2: All Over Japan
+explainSentence2: We can offer to all areas in Japan ranging from Hokkaido to Okinawa.
+explainTitle3: Qualified Personnel
+explainSentence3: We have certified personnels with Vehicle Inspection and mechanical qualification.
+ProsConsTitle: Pros and Cons - Auction? or Stock?
+auction: Auction
+auctionItem1: More selections (about 15,000 daily)
+auctionItem2: Vintage / luxury car
+auctionItem3: Cannot test drive
+auctionItem4: Less time involved
+stock: Stock
+stockItem1: Limited choices
+stockItem2: Middle class car
+stockItem3: Can test drive
+stockItem4: Time consuming
+PrePostTitle: Pre and Post Service
+FAQTitle: FREQUENTLY ASKED QUESTIONS
+shortboxTitle1: Pre-Sales Service
+shortbox1Item1: Driving License Convertion
+shortbox1Item2: Seal
+shortbox1Item3: Seal Certificate
+shortbox1Item4: Parking Certificate
+shortboxTitle2: Post-Sales Service
+shortbox2Item1: Safety Inspection Renewal(Shaken)
+shortbox2Item2: Insurance
+shortbox2Item3: Maintenance & English Navigation change
+shortbox2Item4: Car Cleaning(External / Internal or both)
 longboxItem1: 자동차 소득세 은 무엇인가
 longboxItem2: 자동차 소득세 은 무엇인가
 longboxItem3: 자동차 검사증 은 무엇인가
@@ -48,3 +44,5 @@ longboxItem6: 운전면허 취득 방법
 longboxItem7: 자동차세금 지불 방법
 longboxItem8: 주차장증명 취득 방법
 longboxItem9: 인감증명 취득 방법
+articleTitle: ARTICLES
+article1Sent: Merit & Demerit

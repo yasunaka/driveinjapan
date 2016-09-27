@@ -1,5 +1,6 @@
 title: Drive in Japan
 language: 
+ref: /
 topSent1: Easy to Buy a Car
 topSent2: Direct from Japan Auto Auction
 topTitle: What is
@@ -7,27 +8,22 @@ topSubTitle: Drive in Japan provides a secure way to buy used cars in Japan.
 topDetail: You can choose your favorite car from a lot of cars in various auctions in Japan and also from out stock. This gives you a wide range of choice to suit your needs and budget.
 explainTitle1: Multi Languages Support.
 explainSentence1: We provide support in English, Chinese, Korean, Sinhala, Russian, Spanish, and Swahili.
-explainTitle2: Choose Directly from auction.
-explainSentence2: Easy to buy from auction.One auction sells over 15,000 cars daily. You can definitely find your favorite car that matches your budget and needs.
-explainTitle3: Pre & Post Sales Service
-explainSentence3: Preparation of necessary documents for owning a car in Japan with full support for necessary fees and taxes,safety inspection, insurance etc,
-stepTitle: FOUR STEPS TO BUY CAR
-step1: STEP1
-step1Title: REGISTER
-step1Detail1FirstHalf: First you register to 
-step1Detail1LastHalf: Please choose Drive in Japan as type.
-step1Detail2: We will respond within short time.
-step1Detail3: If you need any assistance regarding a vehicle or the buying process, please feel free to contact our office.
-step2: STEP2
-step2Title: SEARCHING CAR
-step2Detail: Pay advance deposit (100% Refundable) to enable you participate in the auctions. You can search by entering the details (brand, colour, options, etc.) of the car you are looking for in the auction system.
-step3: STEP3
-step3Title: BID
-step3Detail: Once you get all the necessary information regarding the vehicle and satisfied, you will set the bidding price. We will start bidding for the vehicle until it reaches your bidding price.
-step4: STEP4
-step4Title: PAYMENT
-step4Detail: After making a successful bid, we will make a payment for the vehicle, and send you the invoice of your balance. After we receive your payment, we will deliver the vehicle to you or arrange for you to pick it up.
-GUIDETitle: Foreigner's guide to owning a car in Japan
+explainTitle2: All Over Japan
+explainSentence2: We can offer to all areas in Japan ranging from Hokkaido to Okinawa.
+explainTitle3: Qualified Personnel
+explainSentence3: We have certified personnels with Vehicle Inspection and mechanical qualification.
+ProsConsTitle: Pros and Cons - Auction? or Stock?
+auction: Auction
+auctionItem1: More selections (about 15,000 daily)
+auctionItem2: Vintage / luxury car
+auctionItem3: Cannot test drive
+auctionItem4: Less time involved
+stock: Stock
+stockItem1: Limited choices
+stockItem2: Middle class car
+stockItem3: Can test drive
+stockItem4: Time consuming
+PrePostTitle: Pre and Post Service
 shortboxTitle1: Pre-Sales Service
 shortbox1Item1: Driving License Convertion
 shortbox1Item2: Seal
@@ -39,12 +35,14 @@ shortbox2Item2: Insurance
 shortbox2Item3: Maintenance & English Navigation change
 shortbox2Item4: Car Cleaning(External / Internal or both)
 FAQTitle: FREQUENTLY ASKED QUESTIONS
-longboxItem1: What is Automobile Acquisition Tax(自動車所得税)?
-longboxItem2: What is Recycling Fees(リサイクル費用)?
-longboxItem3: What is Car Safety Inspection(車検 - Shaken)?
-longboxItem4: What is Automobile Tonnage Tax(自動車重量税)?
-longboxItem5: What is Compulsory Austomobile Liability Insurance(自賠責保険)?
-longboxItem6: How to get Driver's License(運転免許)?
-longboxItem7: How to pay Annual Automobile Tax(自動車税)?
-longboxItem8: How to get Parking Space Certificate(車庫証明)?
-longboxItem9: How to get Hanko(判子) and Hanko Certificate(印鑑証明)?
+longboxItem1: What is used vehicle auction?
+longboxItem2: Why is the used vehicle auction able to conduct their business successfully?
+longboxItem3: What t are the specific process at the used vehicle auction?
+longboxItem4: What t is the used vehicle auction agent?
+longboxItem5: What t are the advantages of using the used vehicle auction agent?
+longboxItem6: what are the disadvantages of using the used vehicle auction agent?
+longboxItem7: How much are the auction agent fee?
+longboxItem8: Will it be better not to buy a fixed vehicle?
+longboxItem9: I am worried that I cannot check the vehicle on my own…
+articleTitle: ARTICLES
+article1Sent: Merit & Demerit

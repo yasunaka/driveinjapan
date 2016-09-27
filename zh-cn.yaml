@@ -1,34 +1,30 @@
 title: 什么是 Drive in Japan
 language: /zh-cn
+ref: /
 topSent1: 简单购买汽车
 topSent2: 直接从日本汽车怕买场购车
 topTitle: 什么是
 topSubTitle: Drive in Japan 提供您安全购买爱车之道
 topDetail: 您可以在日本各大拍卖行选择您喜爱的车，不仅仅给予您一个广泛的选择范围，而且满足您的需求与预算。
 explainTitle1: 多国语言服务
-explainSentence1: 我们提供英语，中文，韩语，斯里兰卡语等语言服务
-explainTitle2: 连接拍卖场来择车
-explainSentence2: 在二手车拍卖场可以轻松购车。每天二手车的拍卖量超过15000台，您一定能找到自己喜爱并且符合预算和需求的车。
-explainTitle3: 前后销售服务
-explainSentence3: 准备在日本拥有汽车必要文件于费用和税金，车险，保险等全面服务
-stepTitle: 如何购买爱车
-step1: 一
-step1Title: 注册
-step1Detail1FirstHalf: 首先请您注册我们的网页账号
-step1Detail1LastHalf: 在填写有关信息时，请您注明驾驶在日本。
-step1Detail2: 我们将在最短的时间内给予您回复。
-step1Detail3: 如果您在购买车辆中遇到什么疑问，需要我们提供帮助时，请随时联系我们的客服，我们随时等待您的联系。
-step2: 二
-step2Title: 搜索
-step2Detail: 需要预付订金（100%退还），才可以参加拍卖活动。您可以在拍卖交易系统上输入更加详细的汽车信息来搜索您喜爱的车。比如品牌，颜色，等信息。
-step3: 三
-step3Title: 竞价
-step3Detail: 当您找到符合自己需求车辆您就可以把价格。我们就会开始竞价直到您的预算。
-step4: 四
-step4Title: 付款
-step4Detail: 中标之后，我们会代您付款然后再将余额发票发送给您。收到付款之后，我们将提供车辆给您或者安排您来捡起。
-GUIDETitle: 外国人在日本拥有汽车指南
-FAQTitle:
+explainSentence1: 我们提供英语，中文，韩语，斯里兰卡语等语言服务。
+explainTitle2: 日本各地
+explainSentence2: 我们可以提供所有日本地区，从北海道到冲绳。
+explainTitle3: 资格人员
+explainSentence3: 我们有车辆检验和机械资格人员来为您服务。
+ProsConsTitle: Pros and Cons - Auction? or Stock?
+auction: 拍卖场
+auctionItem1: 多选择(大约一万五千辆每天)
+auctionItem2: 豪华车
+auctionItem3: 不可式驾
+auctionItem4: 不费时间
+stock: 车存
+stockItem1: 数量少 
+stockItem2: 中级车辆
+stockItem3: 可式驾
+stockItem4: 花时间
+PrePostTitle: Pre and Post Service
+FAQTitle: FREQUENTLY ASKED QUESTIONS
 shortboxTitle1: 所需资料
 shortbox1Item1: 车库证明
 shortbox1Item2: 印章
@@ -39,12 +35,14 @@ shortbox2Item1: 汽车税
 shortbox2Item2: 回收费用
 shortbox2Item3: 强制汽车责任保险（车险）
 shortbox2Item4: 强制汽车责任保险（车险）
-longboxItem1: 什么是汽车所得税？
-longboxItem2: 什么是回收费用？
-longboxItem3: 什么是车检？
-longboxItem4: 什么是汽车重量税？
-longboxItem5: 什么是强制汽车责任保险？
-longboxItem6: 如何去取得驾驶证？
-longboxItem7: 如何去付全年汽车税？
-longboxItem8: 如何去办理车库证明？
-longboxItem9: 如何去办理印章？
+longboxItem1: 什么是二手车拍卖？
+longboxItem2: 为什么二手车拍卖能够成功地开展业务？
+longboxItem3: 什么是在二手车拍卖的具体过程？
+longboxItem4: 什么是二手车拍卖代理？
+longboxItem5: 通过二手车拍卖代理卖车有什么优点？
+longboxItem6: 什么是使用的二手车拍卖代理的缺点？
+longboxItem7: 拍卖代理费需要多少钱？
+longboxItem8: 买一个固定的车辆会不会比较好？
+longboxItem9: 我很担心，我不能自己检查车辆...
+articleTitle: ARTICLES
+article1Sent: Merit & Demerit
