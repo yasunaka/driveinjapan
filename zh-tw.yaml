@@ -23,13 +23,13 @@ stockItem1: 数量少
 stockItem2: 中级车辆
 stockItem3: 可式驾
 stockItem4: 花时间
-PrePostTitle: Pre and Post Service
-FAQTitle: FREQUENTLY ASKED QUESTIONS
+PrePostTitle: 前後銷售服務
+FAQTitle: 經常有的問題
 shortboxTitle1: 所需資料
 shortbox1Item1: 車庫證明
 shortbox1Item2: 印章
 shortbox1Item3: 印章證明
-shortbox1Item4: 印章證明
+shortbox1Item4: 車庫證書
 shortboxTitle2: 所需繳費
 shortbox2Item1: 汽車稅
 shortbox2Item2: 回收費用
@@ -44,5 +44,5 @@ longboxItem6: 什么是使用的二手车拍卖代理的缺点？
 longboxItem7: 拍卖代理费需要多少钱？
 longboxItem8: 买一个固定的车辆会不会比较好？
 longboxItem9: 我很担心，我不能自己检查车辆...
-articleTitle: ARTICLES
+articleTitle: 投稿
 article1Sent: Merit & Demerit
